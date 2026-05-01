@@ -3,6 +3,11 @@
 from __future__ import annotations
 
 import importlib
+import os
+import sys
+
+# Ensure the repo root is in the Python path so imports work on Streamlit Cloud
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 import pandas as pd
 import streamlit as st
