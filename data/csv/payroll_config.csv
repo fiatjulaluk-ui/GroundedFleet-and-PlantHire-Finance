@@ -1,0 +1,5 @@
+config_key,config_value,effective_from,note
+super_guarantee_rate,0.12,2025-07-01,Super guarantee is 12% of ordinary time earnings from 1 Jul 2025
+vic_payroll_tax_rate,0.0485,2026-01-01,VIC payroll tax rate
+vic_payroll_tax_monthly_threshold,83333,2026-01-01,Monthly threshold in dollars; tax applies only to wages above threshold
+coinvest_rate,0.0,2026-01-01,Pending confirmation with industry body

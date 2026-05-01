@@ -1,0 +1,41 @@
+job_id,customer_name,site_name,site_address,start_date,end_date,duration_days,status,purchase_order
+JOB0001,ABC Civil,Melbourne North,"Unit 00 8 Rodgers Dale, South Sean VIC",2026-04-25,2026-05-08,14,Completed,PO-2026-8973
+JOB0002,Southside Civil,Geelong,"Suite 091 963 Marks Highroad, Bakershire VIC",2026-04-19,2026-04-29,11,Completed,PO-2026-6928
+JOB0003,XYZ Earthworks,Dandenong,"Suite 407 57 Santiago Laneway, North Mariaborough VIC",2026-03-15,2026-03-21,7,Invoiced,PO-2026-3027
+JOB0004,Pakenham Earthworks,Pakenham,"60/384 Kristina Triangle, Aliciahaven VIC",2026-04-07,2026-04-10,4,Invoiced,PO-2026-8623
+JOB0005,Metro Projects,Campbellfield,"22 Cindy Circuit, Thompsonburgh VIC",2026-01-12,2026-01-23,12,Invoiced,PO-2026-1464
+JOB0006,ABC Civil,Geelong,"Suite 920 219 Cain Dell, Rogermouth VIC",2026-04-02,2026-04-08,7,Completed,PO-2026-1284
+JOB0007,Hume Group,Melbourne North,"2 Marquez Upper, East Kellychester VIC",2026-03-15,2026-03-24,10,Completed,PO-2026-0882
+JOB0008,Hume Group,Epping,"79 Donald Arcade, Angelafort VIC",2026-04-17,2026-04-30,14,Open,PO-2026-7900
+JOB0009,Hume Group,Dandenong,"Suite 489 68 Joshua Centre, Osborneton VIC",2026-03-28,2026-04-13,17,Open,PO-2026-5694
+JOB0010,XYZ Earthworks,Broadmeadows,"3/13 Tracey Triangle, Garciamouth VIC",2026-06-07,2026-06-16,10,Open,PO-2026-9604
+JOB0011,Southside Civil,Campbellfield,"Level 4 6 Craig Ridgeway, Port Dominic VIC",2026-04-07,2026-04-14,8,Open,PO-2026-3528
+JOB0012,Hume Group,Dandenong,"592 Ray Expressway, Brownville VIC",2026-03-15,2026-04-02,19,Invoiced,PO-2026-5776
+JOB0013,Broadmeadows Builders,Dandenong,"91 Nancy Ground, Dennismouth VIC",2026-04-14,2026-04-16,3,Open,PO-2026-0960
+JOB0014,Hume Group,Campbellfield,"73 Wells Strand, Williamsontown VIC",2026-04-15,2026-04-23,9,Open,PO-2026-3252
+JOB0015,Pakenham Earthworks,Epping,"Level 8 36 Bruce Service Way, Shelleyport VIC",2026-03-26,2026-04-03,9,Completed,PO-2026-2924
+JOB0016,XYZ Earthworks,Epping,"Flat 76 400 Cox Triangle, Rebeccaborough VIC",2026-04-05,2026-04-07,3,Invoiced,PO-2026-9556
+JOB0017,Southside Civil,Campbellfield,"Level 2 640 Roberts Thoroughfare, Harveyberg VIC",2026-02-18,2026-03-05,16,Invoiced,PO-2026-4298
+JOB0018,Hume Group,Broadmeadows,"002 Haney Alleyway, St. Robert VIC",2026-04-05,2026-04-18,14,Completed,PO-2026-6274
+JOB0019,Metro Projects,Pakenham,"0/423 Jake Cruiseway, Wongshire VIC",2026-01-01,2026-01-08,8,Completed,PO-2026-2881
+JOB0020,Metro Projects,Broadmeadows,"4/09 Gibson Route, Andrewchester VIC",2026-02-09,2026-02-21,13,Completed,PO-2026-0905
+JOB0021,Cranbourne Civil,Campbellfield,"34 Joe Footway, Gloverbury VIC",2026-02-16,2026-02-19,4,Completed,PO-2026-5947
+JOB0022,Pakenham Earthworks,Geelong,"41 David Cross, Garnerberg VIC",2026-06-08,2026-06-24,17,Invoiced,PO-2026-5019
+JOB0023,Southside Civil,Dandenong,"895 Hahn View, East Timothy VIC",2026-01-07,2026-01-10,4,Invoiced,PO-2026-3618
+JOB0024,Hume Group,Cranbourne,"5 Melton Link, New Sherifort VIC",2026-05-01,2026-05-04,4,Open,PO-2026-0283
+JOB0025,ABC Civil,Geelong,"639 William Glade, Lake Ashley VIC",2026-02-24,2026-03-15,20,Completed,PO-2026-7070
+JOB0026,Broadmeadows Builders,Geelong,"Level 6 97 David Quadrangle, Diazhaven VIC",2026-01-19,2026-01-27,9,Invoiced,PO-2026-2004
+JOB0027,Cranbourne Civil,Pakenham,"2 Cole Park, Bairdside VIC",2026-03-23,2026-04-07,16,Invoiced,PO-2026-7485
+JOB0028,ABC Civil,Melbourne North,"Suite 049 74 Nguyen Edge, North Jeremyville VIC",2026-04-02,2026-04-09,8,Invoiced,PO-2026-1197
+JOB0029,ABC Civil,Geelong,"8/74 Tim Artery, West Edwardhaven VIC",2026-03-21,2026-04-04,15,Open,PO-2026-1861
+JOB0030,Hume Group,Epping,"0/5 Nguyen Line, Robertburgh VIC",2026-01-13,2026-01-18,6,Invoiced,PO-2026-7510
+JOB0031,Pakenham Earthworks,Broadmeadows,"Unit 26 1 Harper Bypass, Warrenchester VIC",2026-05-16,2026-05-23,8,Open,PO-2026-0458
+JOB0032,Metro Projects,Melbourne North,"746 Harrison Route, Milesfurt VIC",2026-03-09,2026-03-26,18,Completed,PO-2026-7456
+JOB0033,XYZ Earthworks,Pakenham,"322 Tina State Highway, Michaelville VIC",2026-06-04,2026-06-08,5,Completed,PO-2026-5272
+JOB0034,Pakenham Earthworks,Geelong,"41 Maldonado Strip, New Brooke VIC",2026-05-31,2026-06-07,8,Open,PO-2026-4559
+JOB0035,Metro Projects,Broadmeadows,"293 Katherine Service Way, Lake Reginaview VIC",2026-05-11,2026-05-23,13,Open,PO-2026-3550
+JOB0036,Southside Civil,Epping,"3 Alexandra Ground, Lake Jason VIC",2026-05-05,2026-05-19,15,Invoiced,PO-2026-7889
+JOB0037,XYZ Earthworks,Geelong,"6 Collier Ronde, Collinsshire VIC",2026-01-16,2026-01-30,15,Invoiced,PO-2026-7917
+JOB0038,Pakenham Earthworks,Melbourne North,"Apt. 311 35 Fleming Gardens, Port Joshuafurt VIC",2026-01-29,2026-02-09,12,Completed,PO-2026-9043
+JOB0039,Metro Projects,Dandenong,"Flat 83 165 Mark Quad, East Ashleymouth VIC",2026-05-02,2026-05-21,20,Invoiced,PO-2026-5782
+JOB0040,XYZ Earthworks,Epping,"38 Karina Landing, St. Sarah VIC",2026-01-22,2026-02-06,16,Completed,PO-2026-0011

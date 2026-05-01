@@ -1,0 +1,13 @@
+asset_id,equipment_type,serial_number,purchase_date,status,home_depot
+EX001,13T Excavator,GF-1835-HU,2022-01-11,Active,Campbellfield
+EX002,20T Excavator,GF-3701-DD,2020-05-13,Active,Campbellfield
+EX003,26T Excavator,GF-3715-VA,2018-02-07,Active,Campbellfield
+EX004,35T Excavator,GF-4431-IX,2021-12-24,Active,Campbellfield
+EX005,50T Excavator,GF-1302-ZB,2024-05-02,On Hire,Campbellfield
+DT001,Dump Truck 30T,GF-4992-RZ,2024-07-28,Active,Campbellfield
+CP001,Compactor 815F,GF-8727-DS,2018-04-03,On Hire,Campbellfield
+BC001,Bobcat+8T Tipper,GF-8134-EC,2023-01-25,Active,Campbellfield
+LD001,Loader 3m,GF-5047-JL,2025-04-23,Active,Campbellfield
+LD002,Loader 4m,GF-7279-YP,2023-09-16,Active,Campbellfield
+DZ001,Dozer D6,GF-3101-LQ,2019-07-09,Active,Campbellfield
+GR001,Grader 12M,GF-0937-TG,2025-12-28,In Workshop,Campbellfield

@@ -1,0 +1,23 @@
+job_rate_id,job_id,equipment_type,override_rate_cents,standard_rate_cents,override_reason
+JR0001,JOB0002,Compactor 815F,21303,23000,Negotiated package
+JR0002,JOB0003,26T Excavator,15398,15000,Premium machine
+JR0003,JOB0005,Bobcat+8T Tipper,13982,14500,Customer discount
+JR0004,JOB0009,Loader 4m,18249,18000,Premium machine
+JR0005,JOB0010,Compactor 815F,23607,23000,Customer discount
+JR0006,JOB0010,Dozer D6,20627,23000,Customer discount
+JR0007,JOB0014,50T Excavator,19654,21000,Negotiated package
+JR0008,JOB0015,Bobcat+8T Tipper,15728,14500,Negotiated package
+JR0009,JOB0018,Loader 4m,15841,18000,Customer discount
+JR0010,JOB0021,50T Excavator,23989,21000,Premium machine
+JR0011,JOB0022,Bobcat+8T Tipper,15217,14500,Negotiated package
+JR0012,JOB0022,Dozer D6,24885,23000,Customer discount
+JR0013,JOB0024,50T Excavator,20742,21000,Premium machine
+JR0014,JOB0024,Dozer D6,25537,23000,Premium machine
+JR0015,JOB0027,50T Excavator,22977,21000,Customer discount
+JR0016,JOB0028,20T Excavator,14698,15000,Negotiated package
+JR0017,JOB0029,Dozer D6,21574,23000,Customer discount
+JR0018,JOB0032,26T Excavator,15629,15000,Negotiated package
+JR0019,JOB0035,13T Excavator,14289,14000,Premium machine
+JR0020,JOB0035,Dump Truck 30T,16595,18500,Customer discount
+JR0021,JOB0039,Loader 4m,20142,18000,Customer discount
+JR0022,JOB0040,Loader 4m,16522,18000,Premium machine

@@ -1,0 +1,3 @@
+payg_withholding_id,job_id,cost_id,supplier_name,gross_ex_gst_cents,withholding_rate,withholding_cents,liability_account,bas_field,note
+PAYG0001,JOB0007,COST004248,Levine Inc,300696,0.47,141327,PAYG Withholding Payable,W4,47% ABN withholding: 45% base plus 2% Medicare metadata; excluded from GST net calculation
+PAYG0002,JOB0022,COST004249,Jones-Weber,317910,0.47,149418,PAYG Withholding Payable,W4,47% ABN withholding: 45% base plus 2% Medicare metadata; excluded from GST net calculation

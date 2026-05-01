@@ -1,0 +1,1420 @@
+usage_id,job_id,asset_id,equipment_type,usage_date,site_name,hours_worked,rain_flag,float_required,operator_name
+USE00642,JOB0019,BC001,Bobcat+8T Tipper,2026-01-01,Pakenham,7.0,False,True,Lachlan Martin
+USE00635,JOB0019,LD002,Loader 4m,2026-01-01,Pakenham,9.5,False,True,Jack Smith
+USE00643,JOB0019,BC001,Bobcat+8T Tipper,2026-01-02,Pakenham,8.0,False,False,Lachlan Martin
+USE00636,JOB0019,LD002,Loader 4m,2026-01-02,Pakenham,10.0,True,False,Jack Smith
+USE00644,JOB0019,BC001,Bobcat+8T Tipper,2026-01-03,Pakenham,9.5,False,False,Lachlan Martin
+USE00637,JOB0019,LD002,Loader 4m,2026-01-03,Pakenham,7.5,False,False,Jack Smith
+USE00645,JOB0019,BC001,Bobcat+8T Tipper,2026-01-05,Pakenham,8.5,True,False,Lachlan Martin
+USE00638,JOB0019,LD002,Loader 4m,2026-01-05,Pakenham,11.0,False,False,Jack Smith
+USE00646,JOB0019,BC001,Bobcat+8T Tipper,2026-01-06,Pakenham,8.5,False,False,Lachlan Martin
+USE00639,JOB0019,LD002,Loader 4m,2026-01-06,Pakenham,9.5,False,False,Jack Smith
+USE00647,JOB0019,BC001,Bobcat+8T Tipper,2026-01-07,Pakenham,9.5,True,False,Lachlan Martin
+USE00640,JOB0019,LD002,Loader 4m,2026-01-07,Pakenham,9.5,False,False,Jack Smith
+USE00765,JOB0023,EX001,13T Excavator,2026-01-07,Dandenong,7.5,False,True,Noah Williams
+USE00769,JOB0023,EX004,35T Excavator,2026-01-07,Dandenong,9.0,False,True,Thomas Brown
+USE00648,JOB0019,BC001,Bobcat+8T Tipper,2026-01-08,Pakenham,10.0,False,False,Lachlan Martin
+USE00641,JOB0019,LD002,Loader 4m,2026-01-08,Pakenham,9.0,False,False,Jack Smith
+USE00766,JOB0023,EX001,13T Excavator,2026-01-08,Dandenong,9.0,False,False,Noah Williams
+USE00770,JOB0023,EX004,35T Excavator,2026-01-08,Dandenong,9.0,False,False,Thomas Brown
+USE00767,JOB0023,EX001,13T Excavator,2026-01-09,Dandenong,8.5,False,False,Noah Williams
+USE00771,JOB0023,EX004,35T Excavator,2026-01-09,Dandenong,9.0,False,False,Thomas Brown
+USE00768,JOB0023,EX001,13T Excavator,2026-01-10,Dandenong,6.5,False,False,Noah Williams
+USE00772,JOB0023,EX004,35T Excavator,2026-01-10,Dandenong,8.0,False,False,Thomas Brown
+USE00131,JOB0005,BC001,Bobcat+8T Tipper,2026-01-12,Campbellfield,7.5,False,True,Lachlan Martin
+USE00109,JOB0005,CP001,Compactor 815F,2026-01-12,Campbellfield,7.5,True,True,Henry Johnson
+USE00098,JOB0005,DT001,Dump Truck 30T,2026-01-12,Campbellfield,8.0,False,True,Oliver Taylor
+USE00120,JOB0005,EX004,35T Excavator,2026-01-12,Campbellfield,10.5,False,True,Thomas Brown
+USE00132,JOB0005,BC001,Bobcat+8T Tipper,2026-01-13,Campbellfield,8.5,False,False,Lachlan Martin
+USE00110,JOB0005,CP001,Compactor 815F,2026-01-13,Campbellfield,11.5,True,False,Henry Johnson
+USE00099,JOB0005,DT001,Dump Truck 30T,2026-01-13,Campbellfield,9.5,True,False,Oliver Taylor
+USE00121,JOB0005,EX004,35T Excavator,2026-01-13,Campbellfield,9.0,False,False,Thomas Brown
+USE00992,JOB0030,CP001,Compactor 815F,2026-01-13,Epping,8.5,False,True,Henry Johnson
+USE01002,JOB0030,DT001,Dump Truck 30T,2026-01-13,Epping,10.5,True,True,Oliver Taylor
+USE01012,JOB0030,EX002,20T Excavator,2026-01-13,Epping,11.0,True,True,Jack Smith
+USE00997,JOB0030,EX005,50T Excavator,2026-01-13,Epping,12.0,False,True,Lucas Wilson
+USE01007,JOB0030,GR001,Grader 12M,2026-01-13,Epping,10.5,True,True,Thomas Brown
+USE00133,JOB0005,BC001,Bobcat+8T Tipper,2026-01-14,Campbellfield,8.5,False,False,Lachlan Martin
+USE00111,JOB0005,CP001,Compactor 815F,2026-01-14,Campbellfield,8.0,True,True,Henry Johnson
+USE00100,JOB0005,DT001,Dump Truck 30T,2026-01-14,Campbellfield,8.5,False,True,Oliver Taylor
+USE00122,JOB0005,EX004,35T Excavator,2026-01-14,Campbellfield,11.0,True,False,Thomas Brown
+USE00993,JOB0030,CP001,Compactor 815F,2026-01-14,Epping,7.5,True,True,Henry Johnson
+USE01003,JOB0030,DT001,Dump Truck 30T,2026-01-14,Epping,6.0,False,True,Oliver Taylor
+USE01013,JOB0030,EX002,20T Excavator,2026-01-14,Epping,10.5,False,False,Jack Smith
+USE00998,JOB0030,EX005,50T Excavator,2026-01-14,Epping,11.0,False,False,Lucas Wilson
+USE01008,JOB0030,GR001,Grader 12M,2026-01-14,Epping,9.0,False,False,Thomas Brown
+USE00134,JOB0005,BC001,Bobcat+8T Tipper,2026-01-15,Campbellfield,9.0,False,False,Lachlan Martin
+USE00112,JOB0005,CP001,Compactor 815F,2026-01-15,Campbellfield,10.0,False,True,Henry Johnson
+USE00101,JOB0005,DT001,Dump Truck 30T,2026-01-15,Campbellfield,9.5,False,True,Oliver Taylor
+USE00123,JOB0005,EX004,35T Excavator,2026-01-15,Campbellfield,9.5,False,False,Thomas Brown
+USE00994,JOB0030,CP001,Compactor 815F,2026-01-15,Epping,10.5,False,True,Henry Johnson
+USE01004,JOB0030,DT001,Dump Truck 30T,2026-01-15,Epping,7.5,False,True,Oliver Taylor
+USE01014,JOB0030,EX002,20T Excavator,2026-01-15,Epping,9.5,False,False,Jack Smith
+USE00999,JOB0030,EX005,50T Excavator,2026-01-15,Epping,10.0,False,False,Lucas Wilson
+USE01009,JOB0030,GR001,Grader 12M,2026-01-15,Epping,9.0,False,False,Thomas Brown
+USE00135,JOB0005,BC001,Bobcat+8T Tipper,2026-01-16,Campbellfield,7.5,False,False,Lachlan Martin
+USE00113,JOB0005,CP001,Compactor 815F,2026-01-16,Campbellfield,9.5,False,True,Henry Johnson
+USE00102,JOB0005,DT001,Dump Truck 30T,2026-01-16,Campbellfield,11.0,False,True,Oliver Taylor
+USE00124,JOB0005,EX004,35T Excavator,2026-01-16,Campbellfield,11.0,True,False,Thomas Brown
+USE00995,JOB0030,CP001,Compactor 815F,2026-01-16,Epping,8.0,True,True,Henry Johnson
+USE01005,JOB0030,DT001,Dump Truck 30T,2026-01-16,Epping,6.0,False,True,Oliver Taylor
+USE01015,JOB0030,EX002,20T Excavator,2026-01-16,Epping,11.0,False,False,Jack Smith
+USE01000,JOB0030,EX005,50T Excavator,2026-01-16,Epping,10.5,False,False,Lucas Wilson
+USE01010,JOB0030,GR001,Grader 12M,2026-01-16,Epping,9.0,False,False,Thomas Brown
+USE01225,JOB0037,CP001,Compactor 815F,2026-01-16,Geelong,9.0,False,True,Henry Johnson
+USE01238,JOB0037,DT001,Dump Truck 30T,2026-01-16,Geelong,8.0,False,True,Oliver Taylor
+USE01264,JOB0037,EX002,20T Excavator,2026-01-16,Geelong,12.0,False,True,Jack Smith
+USE01251,JOB0037,EX003,26T Excavator,2026-01-16,Geelong,8.5,True,True,William Jones
+USE01277,JOB0037,LD002,Loader 4m,2026-01-16,Geelong,8.5,False,True,Jack Smith
+USE00136,JOB0005,BC001,Bobcat+8T Tipper,2026-01-17,Campbellfield,8.5,True,False,Lachlan Martin
+USE00114,JOB0005,CP001,Compactor 815F,2026-01-17,Campbellfield,9.0,True,True,Henry Johnson
+USE00103,JOB0005,DT001,Dump Truck 30T,2026-01-17,Campbellfield,6.5,False,True,Oliver Taylor
+USE00125,JOB0005,EX004,35T Excavator,2026-01-17,Campbellfield,8.0,True,False,Thomas Brown
+USE00996,JOB0030,CP001,Compactor 815F,2026-01-17,Epping,10.5,False,True,Henry Johnson
+USE01006,JOB0030,DT001,Dump Truck 30T,2026-01-17,Epping,9.0,False,True,Oliver Taylor
+USE01016,JOB0030,EX002,20T Excavator,2026-01-17,Epping,9.5,False,True,Jack Smith
+USE01001,JOB0030,EX005,50T Excavator,2026-01-17,Epping,10.5,False,False,Lucas Wilson
+USE01011,JOB0030,GR001,Grader 12M,2026-01-17,Epping,8.5,False,False,Thomas Brown
+USE01226,JOB0037,CP001,Compactor 815F,2026-01-17,Geelong,7.0,False,True,Henry Johnson
+USE01239,JOB0037,DT001,Dump Truck 30T,2026-01-17,Geelong,6.5,False,True,Oliver Taylor
+USE01265,JOB0037,EX002,20T Excavator,2026-01-17,Geelong,11.5,False,True,Jack Smith
+USE01252,JOB0037,EX003,26T Excavator,2026-01-17,Geelong,8.0,False,False,William Jones
+USE01278,JOB0037,LD002,Loader 4m,2026-01-17,Geelong,9.5,False,False,Jack Smith
+USE00137,JOB0005,BC001,Bobcat+8T Tipper,2026-01-19,Campbellfield,7.5,False,False,Lachlan Martin
+USE00115,JOB0005,CP001,Compactor 815F,2026-01-19,Campbellfield,8.5,False,True,Henry Johnson
+USE00104,JOB0005,DT001,Dump Truck 30T,2026-01-19,Campbellfield,8.5,False,True,Oliver Taylor
+USE00126,JOB0005,EX004,35T Excavator,2026-01-19,Campbellfield,8.5,False,False,Thomas Brown
+USE00835,JOB0026,BC001,Bobcat+8T Tipper,2026-01-19,Geelong,8.5,True,True,Lachlan Martin
+USE00819,JOB0026,EX001,13T Excavator,2026-01-19,Geelong,9.5,True,True,Noah Williams
+USE00827,JOB0026,LD001,Loader 3m,2026-01-19,Geelong,7.5,False,True,Noah Williams
+USE01227,JOB0037,CP001,Compactor 815F,2026-01-19,Geelong,9.0,False,True,Henry Johnson
+USE01240,JOB0037,DT001,Dump Truck 30T,2026-01-19,Geelong,7.5,False,True,Oliver Taylor
+USE01266,JOB0037,EX002,20T Excavator,2026-01-19,Geelong,9.0,False,False,Jack Smith
+USE01253,JOB0037,EX003,26T Excavator,2026-01-19,Geelong,11.0,False,False,William Jones
+USE01279,JOB0037,LD002,Loader 4m,2026-01-19,Geelong,8.5,True,False,Jack Smith
+USE00138,JOB0005,BC001,Bobcat+8T Tipper,2026-01-20,Campbellfield,8.5,False,True,Lachlan Martin
+USE00116,JOB0005,CP001,Compactor 815F,2026-01-20,Campbellfield,9.5,False,True,Henry Johnson
+USE00105,JOB0005,DT001,Dump Truck 30T,2026-01-20,Campbellfield,9.5,False,True,Oliver Taylor
+USE00127,JOB0005,EX004,35T Excavator,2026-01-20,Campbellfield,10.5,False,False,Thomas Brown
+USE00836,JOB0026,BC001,Bobcat+8T Tipper,2026-01-20,Geelong,9.0,False,True,Lachlan Martin
+USE00820,JOB0026,EX001,13T Excavator,2026-01-20,Geelong,6.5,False,False,Noah Williams
+USE00828,JOB0026,LD001,Loader 3m,2026-01-20,Geelong,9.0,False,False,Noah Williams
+USE01228,JOB0037,CP001,Compactor 815F,2026-01-20,Geelong,10.0,False,True,Henry Johnson
+USE01241,JOB0037,DT001,Dump Truck 30T,2026-01-20,Geelong,7.5,False,True,Oliver Taylor
+USE01267,JOB0037,EX002,20T Excavator,2026-01-20,Geelong,9.5,False,False,Jack Smith
+USE01254,JOB0037,EX003,26T Excavator,2026-01-20,Geelong,11.5,True,False,William Jones
+USE01280,JOB0037,LD002,Loader 4m,2026-01-20,Geelong,9.5,True,False,Jack Smith
+USE00139,JOB0005,BC001,Bobcat+8T Tipper,2026-01-21,Campbellfield,8.0,False,True,Lachlan Martin
+USE00117,JOB0005,CP001,Compactor 815F,2026-01-21,Campbellfield,12.0,False,True,Henry Johnson
+USE00106,JOB0005,DT001,Dump Truck 30T,2026-01-21,Campbellfield,9.5,False,True,Oliver Taylor
+USE00128,JOB0005,EX004,35T Excavator,2026-01-21,Campbellfield,10.5,False,False,Thomas Brown
+USE00837,JOB0026,BC001,Bobcat+8T Tipper,2026-01-21,Geelong,8.0,False,True,Lachlan Martin
+USE00821,JOB0026,EX001,13T Excavator,2026-01-21,Geelong,7.5,False,False,Noah Williams
+USE00829,JOB0026,LD001,Loader 3m,2026-01-21,Geelong,9.5,True,False,Noah Williams
+USE01229,JOB0037,CP001,Compactor 815F,2026-01-21,Geelong,9.5,False,True,Henry Johnson
+USE01242,JOB0037,DT001,Dump Truck 30T,2026-01-21,Geelong,11.5,False,True,Oliver Taylor
+USE01268,JOB0037,EX002,20T Excavator,2026-01-21,Geelong,12.0,False,False,Jack Smith
+USE01255,JOB0037,EX003,26T Excavator,2026-01-21,Geelong,8.5,True,False,William Jones
+USE01281,JOB0037,LD002,Loader 4m,2026-01-21,Geelong,8.0,False,False,Jack Smith
+USE00140,JOB0005,BC001,Bobcat+8T Tipper,2026-01-22,Campbellfield,8.0,True,True,Lachlan Martin
+USE00118,JOB0005,CP001,Compactor 815F,2026-01-22,Campbellfield,7.5,False,True,Henry Johnson
+USE00107,JOB0005,DT001,Dump Truck 30T,2026-01-22,Campbellfield,9.5,False,True,Oliver Taylor
+USE00129,JOB0005,EX004,35T Excavator,2026-01-22,Campbellfield,11.0,False,False,Thomas Brown
+USE00838,JOB0026,BC001,Bobcat+8T Tipper,2026-01-22,Geelong,11.5,False,True,Lachlan Martin
+USE00822,JOB0026,EX001,13T Excavator,2026-01-22,Geelong,9.5,False,False,Noah Williams
+USE00830,JOB0026,LD001,Loader 3m,2026-01-22,Geelong,11.0,False,False,Noah Williams
+USE01230,JOB0037,CP001,Compactor 815F,2026-01-22,Geelong,6.5,True,True,Henry Johnson
+USE01243,JOB0037,DT001,Dump Truck 30T,2026-01-22,Geelong,6.0,False,True,Oliver Taylor
+USE01269,JOB0037,EX002,20T Excavator,2026-01-22,Geelong,8.0,False,False,Jack Smith
+USE01256,JOB0037,EX003,26T Excavator,2026-01-22,Geelong,11.5,False,False,William Jones
+USE01282,JOB0037,LD002,Loader 4m,2026-01-22,Geelong,8.0,False,False,Jack Smith
+USE01406,JOB0040,EX005,50T Excavator,2026-01-22,Epping,12.0,False,False,Lucas Wilson
+USE01378,JOB0040,GR001,Grader 12M,2026-01-22,Epping,8.5,False,False,Thomas Brown
+USE01392,JOB0040,LD002,Loader 4m,2026-01-22,Epping,6.5,False,True,Jack Smith
+USE00141,JOB0005,BC001,Bobcat+8T Tipper,2026-01-23,Campbellfield,8.0,False,True,Lachlan Martin
+USE00119,JOB0005,CP001,Compactor 815F,2026-01-23,Campbellfield,10.0,False,True,Henry Johnson
+USE00108,JOB0005,DT001,Dump Truck 30T,2026-01-23,Campbellfield,9.5,False,True,Oliver Taylor
+USE00130,JOB0005,EX004,35T Excavator,2026-01-23,Campbellfield,9.5,False,False,Thomas Brown
+USE00839,JOB0026,BC001,Bobcat+8T Tipper,2026-01-23,Geelong,9.5,False,True,Lachlan Martin
+USE00823,JOB0026,EX001,13T Excavator,2026-01-23,Geelong,8.5,False,False,Noah Williams
+USE00831,JOB0026,LD001,Loader 3m,2026-01-23,Geelong,10.5,True,False,Noah Williams
+USE01231,JOB0037,CP001,Compactor 815F,2026-01-23,Geelong,10.0,False,True,Henry Johnson
+USE01244,JOB0037,DT001,Dump Truck 30T,2026-01-23,Geelong,9.5,False,True,Oliver Taylor
+USE01270,JOB0037,EX002,20T Excavator,2026-01-23,Geelong,6.5,False,False,Jack Smith
+USE01257,JOB0037,EX003,26T Excavator,2026-01-23,Geelong,8.5,True,False,William Jones
+USE01283,JOB0037,LD002,Loader 4m,2026-01-23,Geelong,7.0,False,True,Jack Smith
+USE01407,JOB0040,EX005,50T Excavator,2026-01-23,Epping,6.0,False,False,Lucas Wilson
+USE01379,JOB0040,GR001,Grader 12M,2026-01-23,Epping,11.0,False,False,Thomas Brown
+USE01393,JOB0040,LD002,Loader 4m,2026-01-23,Epping,9.5,False,True,Jack Smith
+USE00840,JOB0026,BC001,Bobcat+8T Tipper,2026-01-24,Geelong,8.5,True,False,Lachlan Martin
+USE00824,JOB0026,EX001,13T Excavator,2026-01-24,Geelong,6.5,False,False,Noah Williams
+USE00832,JOB0026,LD001,Loader 3m,2026-01-24,Geelong,8.0,True,False,Noah Williams
+USE01232,JOB0037,CP001,Compactor 815F,2026-01-24,Geelong,10.5,False,False,Henry Johnson
+USE01245,JOB0037,DT001,Dump Truck 30T,2026-01-24,Geelong,11.0,True,False,Oliver Taylor
+USE01271,JOB0037,EX002,20T Excavator,2026-01-24,Geelong,8.5,False,False,Jack Smith
+USE01258,JOB0037,EX003,26T Excavator,2026-01-24,Geelong,11.5,True,False,William Jones
+USE01284,JOB0037,LD002,Loader 4m,2026-01-24,Geelong,10.0,False,True,Jack Smith
+USE01408,JOB0040,EX005,50T Excavator,2026-01-24,Epping,9.5,True,False,Lucas Wilson
+USE01380,JOB0040,GR001,Grader 12M,2026-01-24,Epping,8.0,False,False,Thomas Brown
+USE01394,JOB0040,LD002,Loader 4m,2026-01-24,Epping,9.5,False,True,Jack Smith
+USE00841,JOB0026,BC001,Bobcat+8T Tipper,2026-01-26,Geelong,10.0,False,False,Lachlan Martin
+USE00825,JOB0026,EX001,13T Excavator,2026-01-26,Geelong,11.0,False,False,Noah Williams
+USE00833,JOB0026,LD001,Loader 3m,2026-01-26,Geelong,9.0,True,False,Noah Williams
+USE01233,JOB0037,CP001,Compactor 815F,2026-01-26,Geelong,12.0,False,False,Henry Johnson
+USE01246,JOB0037,DT001,Dump Truck 30T,2026-01-26,Geelong,10.5,False,False,Oliver Taylor
+USE01272,JOB0037,EX002,20T Excavator,2026-01-26,Geelong,8.0,True,False,Jack Smith
+USE01259,JOB0037,EX003,26T Excavator,2026-01-26,Geelong,9.0,False,False,William Jones
+USE01285,JOB0037,LD002,Loader 4m,2026-01-26,Geelong,7.5,False,True,Jack Smith
+USE01409,JOB0040,EX005,50T Excavator,2026-01-26,Epping,8.5,False,False,Lucas Wilson
+USE01381,JOB0040,GR001,Grader 12M,2026-01-26,Epping,10.0,True,False,Thomas Brown
+USE01395,JOB0040,LD002,Loader 4m,2026-01-26,Epping,10.5,True,True,Jack Smith
+USE00842,JOB0026,BC001,Bobcat+8T Tipper,2026-01-27,Geelong,7.0,False,False,Lachlan Martin
+USE00826,JOB0026,EX001,13T Excavator,2026-01-27,Geelong,9.5,False,False,Noah Williams
+USE00834,JOB0026,LD001,Loader 3m,2026-01-27,Geelong,7.0,False,False,Noah Williams
+USE01234,JOB0037,CP001,Compactor 815F,2026-01-27,Geelong,8.0,False,False,Henry Johnson
+USE01247,JOB0037,DT001,Dump Truck 30T,2026-01-27,Geelong,9.0,False,False,Oliver Taylor
+USE01273,JOB0037,EX002,20T Excavator,2026-01-27,Geelong,9.5,False,False,Jack Smith
+USE01260,JOB0037,EX003,26T Excavator,2026-01-27,Geelong,6.5,False,False,William Jones
+USE01286,JOB0037,LD002,Loader 4m,2026-01-27,Geelong,10.0,False,True,Jack Smith
+USE01410,JOB0040,EX005,50T Excavator,2026-01-27,Epping,12.0,False,False,Lucas Wilson
+USE01382,JOB0040,GR001,Grader 12M,2026-01-27,Epping,8.0,False,False,Thomas Brown
+USE01396,JOB0040,LD002,Loader 4m,2026-01-27,Epping,6.0,False,True,Jack Smith
+USE01235,JOB0037,CP001,Compactor 815F,2026-01-28,Geelong,9.0,False,False,Henry Johnson
+USE01248,JOB0037,DT001,Dump Truck 30T,2026-01-28,Geelong,11.5,True,False,Oliver Taylor
+USE01274,JOB0037,EX002,20T Excavator,2026-01-28,Geelong,9.5,False,False,Jack Smith
+USE01261,JOB0037,EX003,26T Excavator,2026-01-28,Geelong,9.5,False,False,William Jones
+USE01287,JOB0037,LD002,Loader 4m,2026-01-28,Geelong,9.5,False,True,Jack Smith
+USE01411,JOB0040,EX005,50T Excavator,2026-01-28,Epping,8.5,True,False,Lucas Wilson
+USE01383,JOB0040,GR001,Grader 12M,2026-01-28,Epping,9.0,False,False,Thomas Brown
+USE01397,JOB0040,LD002,Loader 4m,2026-01-28,Epping,7.5,False,True,Jack Smith
+USE01236,JOB0037,CP001,Compactor 815F,2026-01-29,Geelong,10.0,False,False,Henry Johnson
+USE01249,JOB0037,DT001,Dump Truck 30T,2026-01-29,Geelong,8.0,False,False,Oliver Taylor
+USE01275,JOB0037,EX002,20T Excavator,2026-01-29,Geelong,9.0,False,False,Jack Smith
+USE01262,JOB0037,EX003,26T Excavator,2026-01-29,Geelong,9.5,False,False,William Jones
+USE01288,JOB0037,LD002,Loader 4m,2026-01-29,Geelong,9.5,False,True,Jack Smith
+USE01290,JOB0038,CP001,Compactor 815F,2026-01-29,Melbourne North,7.5,True,True,Henry Johnson
+USE01300,JOB0038,DT001,Dump Truck 30T,2026-01-29,Melbourne North,7.5,False,True,Oliver Taylor
+USE01412,JOB0040,EX005,50T Excavator,2026-01-29,Epping,8.5,False,False,Lucas Wilson
+USE01384,JOB0040,GR001,Grader 12M,2026-01-29,Epping,9.5,False,False,Thomas Brown
+USE01398,JOB0040,LD002,Loader 4m,2026-01-29,Epping,11.0,False,True,Jack Smith
+USE01237,JOB0037,CP001,Compactor 815F,2026-01-30,Geelong,11.0,False,True,Henry Johnson
+USE01250,JOB0037,DT001,Dump Truck 30T,2026-01-30,Geelong,7.5,False,True,Oliver Taylor
+USE01276,JOB0037,EX002,20T Excavator,2026-01-30,Geelong,7.5,True,False,Jack Smith
+USE01263,JOB0037,EX003,26T Excavator,2026-01-30,Geelong,8.0,False,False,William Jones
+USE01289,JOB0037,LD002,Loader 4m,2026-01-30,Geelong,10.0,False,True,Jack Smith
+USE01291,JOB0038,CP001,Compactor 815F,2026-01-30,Melbourne North,7.5,False,True,Henry Johnson
+USE01301,JOB0038,DT001,Dump Truck 30T,2026-01-30,Melbourne North,7.5,False,True,Oliver Taylor
+USE01413,JOB0040,EX005,50T Excavator,2026-01-30,Epping,10.0,True,False,Lucas Wilson
+USE01385,JOB0040,GR001,Grader 12M,2026-01-30,Epping,10.0,False,False,Thomas Brown
+USE01399,JOB0040,LD002,Loader 4m,2026-01-30,Epping,8.5,True,True,Jack Smith
+USE01292,JOB0038,CP001,Compactor 815F,2026-01-31,Melbourne North,8.0,False,False,Henry Johnson
+USE01302,JOB0038,DT001,Dump Truck 30T,2026-01-31,Melbourne North,8.5,False,False,Oliver Taylor
+USE01414,JOB0040,EX005,50T Excavator,2026-01-31,Epping,7.0,False,False,Lucas Wilson
+USE01386,JOB0040,GR001,Grader 12M,2026-01-31,Epping,8.5,False,False,Thomas Brown
+USE01400,JOB0040,LD002,Loader 4m,2026-01-31,Epping,7.0,False,False,Jack Smith
+USE01293,JOB0038,CP001,Compactor 815F,2026-02-02,Melbourne North,12.0,False,False,Henry Johnson
+USE01303,JOB0038,DT001,Dump Truck 30T,2026-02-02,Melbourne North,9.5,False,False,Oliver Taylor
+USE01415,JOB0040,EX005,50T Excavator,2026-02-02,Epping,11.0,False,False,Lucas Wilson
+USE01387,JOB0040,GR001,Grader 12M,2026-02-02,Epping,8.5,False,False,Thomas Brown
+USE01401,JOB0040,LD002,Loader 4m,2026-02-02,Epping,8.5,False,False,Jack Smith
+USE01294,JOB0038,CP001,Compactor 815F,2026-02-03,Melbourne North,8.5,True,False,Henry Johnson
+USE01304,JOB0038,DT001,Dump Truck 30T,2026-02-03,Melbourne North,9.0,True,False,Oliver Taylor
+USE01416,JOB0040,EX005,50T Excavator,2026-02-03,Epping,8.5,False,False,Lucas Wilson
+USE01388,JOB0040,GR001,Grader 12M,2026-02-03,Epping,9.5,False,False,Thomas Brown
+USE01402,JOB0040,LD002,Loader 4m,2026-02-03,Epping,6.0,False,False,Jack Smith
+USE01295,JOB0038,CP001,Compactor 815F,2026-02-04,Melbourne North,10.0,False,False,Henry Johnson
+USE01305,JOB0038,DT001,Dump Truck 30T,2026-02-04,Melbourne North,8.5,False,False,Oliver Taylor
+USE01417,JOB0040,EX005,50T Excavator,2026-02-04,Epping,7.5,False,False,Lucas Wilson
+USE01389,JOB0040,GR001,Grader 12M,2026-02-04,Epping,9.0,False,False,Thomas Brown
+USE01403,JOB0040,LD002,Loader 4m,2026-02-04,Epping,8.0,False,False,Jack Smith
+USE01296,JOB0038,CP001,Compactor 815F,2026-02-05,Melbourne North,8.5,False,False,Henry Johnson
+USE01306,JOB0038,DT001,Dump Truck 30T,2026-02-05,Melbourne North,8.5,False,False,Oliver Taylor
+USE01418,JOB0040,EX005,50T Excavator,2026-02-05,Epping,7.5,False,False,Lucas Wilson
+USE01390,JOB0040,GR001,Grader 12M,2026-02-05,Epping,10.0,True,False,Thomas Brown
+USE01404,JOB0040,LD002,Loader 4m,2026-02-05,Epping,9.0,False,False,Jack Smith
+USE01297,JOB0038,CP001,Compactor 815F,2026-02-06,Melbourne North,10.0,False,False,Henry Johnson
+USE01307,JOB0038,DT001,Dump Truck 30T,2026-02-06,Melbourne North,9.5,False,False,Oliver Taylor
+USE01419,JOB0040,EX005,50T Excavator,2026-02-06,Epping,8.0,False,False,Lucas Wilson
+USE01391,JOB0040,GR001,Grader 12M,2026-02-06,Epping,9.5,False,False,Thomas Brown
+USE01405,JOB0040,LD002,Loader 4m,2026-02-06,Epping,8.0,True,False,Jack Smith
+USE01298,JOB0038,CP001,Compactor 815F,2026-02-07,Melbourne North,11.0,False,False,Henry Johnson
+USE01308,JOB0038,DT001,Dump Truck 30T,2026-02-07,Melbourne North,10.0,False,False,Oliver Taylor
+USE00649,JOB0020,EX001,13T Excavator,2026-02-09,Broadmeadows,8.5,False,True,Noah Williams
+USE00673,JOB0020,EX005,50T Excavator,2026-02-09,Broadmeadows,10.5,False,True,Lucas Wilson
+USE00661,JOB0020,GR001,Grader 12M,2026-02-09,Broadmeadows,10.5,False,True,Thomas Brown
+USE01299,JOB0038,CP001,Compactor 815F,2026-02-09,Melbourne North,8.5,False,False,Henry Johnson
+USE01309,JOB0038,DT001,Dump Truck 30T,2026-02-09,Melbourne North,10.5,False,False,Oliver Taylor
+USE00650,JOB0020,EX001,13T Excavator,2026-02-10,Broadmeadows,12.0,False,False,Noah Williams
+USE00674,JOB0020,EX005,50T Excavator,2026-02-10,Broadmeadows,8.5,False,False,Lucas Wilson
+USE00662,JOB0020,GR001,Grader 12M,2026-02-10,Broadmeadows,8.5,False,False,Thomas Brown
+USE00651,JOB0020,EX001,13T Excavator,2026-02-11,Broadmeadows,8.5,False,False,Noah Williams
+USE00675,JOB0020,EX005,50T Excavator,2026-02-11,Broadmeadows,11.5,False,False,Lucas Wilson
+USE00663,JOB0020,GR001,Grader 12M,2026-02-11,Broadmeadows,6.5,False,False,Thomas Brown
+USE00652,JOB0020,EX001,13T Excavator,2026-02-12,Broadmeadows,9.5,False,False,Noah Williams
+USE00676,JOB0020,EX005,50T Excavator,2026-02-12,Broadmeadows,9.5,False,False,Lucas Wilson
+USE00664,JOB0020,GR001,Grader 12M,2026-02-12,Broadmeadows,9.5,False,False,Thomas Brown
+USE00653,JOB0020,EX001,13T Excavator,2026-02-13,Broadmeadows,11.5,False,False,Noah Williams
+USE00677,JOB0020,EX005,50T Excavator,2026-02-13,Broadmeadows,10.0,False,False,Lucas Wilson
+USE00665,JOB0020,GR001,Grader 12M,2026-02-13,Broadmeadows,8.5,False,False,Thomas Brown
+USE00654,JOB0020,EX001,13T Excavator,2026-02-14,Broadmeadows,9.5,False,False,Noah Williams
+USE00678,JOB0020,EX005,50T Excavator,2026-02-14,Broadmeadows,10.5,False,False,Lucas Wilson
+USE00666,JOB0020,GR001,Grader 12M,2026-02-14,Broadmeadows,9.5,False,False,Thomas Brown
+USE00655,JOB0020,EX001,13T Excavator,2026-02-16,Broadmeadows,8.0,False,False,Noah Williams
+USE00679,JOB0020,EX005,50T Excavator,2026-02-16,Broadmeadows,8.5,False,False,Lucas Wilson
+USE00667,JOB0020,GR001,Grader 12M,2026-02-16,Broadmeadows,10.0,False,False,Thomas Brown
+USE00685,JOB0021,DZ001,Dozer D6,2026-02-16,Campbellfield,8.5,True,True,William Jones
+USE00701,JOB0021,EX003,26T Excavator,2026-02-16,Campbellfield,12.0,False,True,William Jones
+USE00693,JOB0021,EX004,35T Excavator,2026-02-16,Campbellfield,8.5,False,False,Thomas Brown
+USE00697,JOB0021,EX005,50T Excavator,2026-02-16,Campbellfield,11.5,False,True,Lucas Wilson
+USE00689,JOB0021,LD001,Loader 3m,2026-02-16,Campbellfield,9.5,False,True,Noah Williams
+USE00656,JOB0020,EX001,13T Excavator,2026-02-17,Broadmeadows,8.0,False,False,Noah Williams
+USE00680,JOB0020,EX005,50T Excavator,2026-02-17,Broadmeadows,10.0,True,True,Lucas Wilson
+USE00668,JOB0020,GR001,Grader 12M,2026-02-17,Broadmeadows,11.5,False,False,Thomas Brown
+USE00686,JOB0021,DZ001,Dozer D6,2026-02-17,Campbellfield,9.0,False,False,William Jones
+USE00702,JOB0021,EX003,26T Excavator,2026-02-17,Campbellfield,8.5,False,False,William Jones
+USE00694,JOB0021,EX004,35T Excavator,2026-02-17,Campbellfield,7.0,False,False,Thomas Brown
+USE00698,JOB0021,EX005,50T Excavator,2026-02-17,Campbellfield,9.5,False,True,Lucas Wilson
+USE00690,JOB0021,LD001,Loader 3m,2026-02-17,Campbellfield,6.0,True,False,Noah Williams
+USE00533,JOB0017,BC001,Bobcat+8T Tipper,2026-02-18,Campbellfield,11.0,False,True,Lachlan Martin
+USE00505,JOB0017,DZ001,Dozer D6,2026-02-18,Campbellfield,9.5,False,False,William Jones
+USE00547,JOB0017,EX001,13T Excavator,2026-02-18,Campbellfield,11.5,True,True,Noah Williams
+USE00561,JOB0017,EX002,20T Excavator,2026-02-18,Campbellfield,10.5,False,True,Jack Smith
+USE00519,JOB0017,EX003,26T Excavator,2026-02-18,Campbellfield,10.0,False,False,William Jones
+USE00657,JOB0020,EX001,13T Excavator,2026-02-18,Broadmeadows,7.0,False,True,Noah Williams
+USE00681,JOB0020,EX005,50T Excavator,2026-02-18,Broadmeadows,8.0,False,True,Lucas Wilson
+USE00669,JOB0020,GR001,Grader 12M,2026-02-18,Broadmeadows,8.5,False,False,Thomas Brown
+USE00687,JOB0021,DZ001,Dozer D6,2026-02-18,Campbellfield,8.5,False,False,William Jones
+USE00703,JOB0021,EX003,26T Excavator,2026-02-18,Campbellfield,8.5,False,False,William Jones
+USE00695,JOB0021,EX004,35T Excavator,2026-02-18,Campbellfield,11.5,False,False,Thomas Brown
+USE00699,JOB0021,EX005,50T Excavator,2026-02-18,Campbellfield,8.0,False,True,Lucas Wilson
+USE00691,JOB0021,LD001,Loader 3m,2026-02-18,Campbellfield,10.0,False,False,Noah Williams
+USE00534,JOB0017,BC001,Bobcat+8T Tipper,2026-02-19,Campbellfield,11.5,False,False,Lachlan Martin
+USE00506,JOB0017,DZ001,Dozer D6,2026-02-19,Campbellfield,11.5,False,False,William Jones
+USE00548,JOB0017,EX001,13T Excavator,2026-02-19,Campbellfield,9.0,False,True,Noah Williams
+USE00562,JOB0017,EX002,20T Excavator,2026-02-19,Campbellfield,9.0,False,False,Jack Smith
+USE00520,JOB0017,EX003,26T Excavator,2026-02-19,Campbellfield,7.5,False,False,William Jones
+USE00658,JOB0020,EX001,13T Excavator,2026-02-19,Broadmeadows,10.0,False,True,Noah Williams
+USE00682,JOB0020,EX005,50T Excavator,2026-02-19,Broadmeadows,11.0,False,True,Lucas Wilson
+USE00670,JOB0020,GR001,Grader 12M,2026-02-19,Broadmeadows,8.5,False,False,Thomas Brown
+USE00688,JOB0021,DZ001,Dozer D6,2026-02-19,Campbellfield,9.5,False,False,William Jones
+USE00704,JOB0021,EX003,26T Excavator,2026-02-19,Campbellfield,8.5,False,False,William Jones
+USE00696,JOB0021,EX004,35T Excavator,2026-02-19,Campbellfield,8.5,False,False,Thomas Brown
+USE00700,JOB0021,EX005,50T Excavator,2026-02-19,Campbellfield,10.0,False,True,Lucas Wilson
+USE00692,JOB0021,LD001,Loader 3m,2026-02-19,Campbellfield,9.0,True,False,Noah Williams
+USE00535,JOB0017,BC001,Bobcat+8T Tipper,2026-02-20,Campbellfield,11.5,False,False,Lachlan Martin
+USE00507,JOB0017,DZ001,Dozer D6,2026-02-20,Campbellfield,7.5,True,False,William Jones
+USE00549,JOB0017,EX001,13T Excavator,2026-02-20,Campbellfield,11.0,False,True,Noah Williams
+USE00563,JOB0017,EX002,20T Excavator,2026-02-20,Campbellfield,8.5,False,False,Jack Smith
+USE00521,JOB0017,EX003,26T Excavator,2026-02-20,Campbellfield,7.5,False,False,William Jones
+USE00659,JOB0020,EX001,13T Excavator,2026-02-20,Broadmeadows,10.5,False,True,Noah Williams
+USE00683,JOB0020,EX005,50T Excavator,2026-02-20,Broadmeadows,9.0,False,True,Lucas Wilson
+USE00671,JOB0020,GR001,Grader 12M,2026-02-20,Broadmeadows,8.5,False,False,Thomas Brown
+USE00536,JOB0017,BC001,Bobcat+8T Tipper,2026-02-21,Campbellfield,8.0,False,False,Lachlan Martin
+USE00508,JOB0017,DZ001,Dozer D6,2026-02-21,Campbellfield,8.5,False,False,William Jones
+USE00550,JOB0017,EX001,13T Excavator,2026-02-21,Campbellfield,10.0,False,True,Noah Williams
+USE00564,JOB0017,EX002,20T Excavator,2026-02-21,Campbellfield,9.5,True,False,Jack Smith
+USE00522,JOB0017,EX003,26T Excavator,2026-02-21,Campbellfield,10.5,False,False,William Jones
+USE00660,JOB0020,EX001,13T Excavator,2026-02-21,Broadmeadows,12.0,False,True,Noah Williams
+USE00684,JOB0020,EX005,50T Excavator,2026-02-21,Broadmeadows,9.0,True,False,Lucas Wilson
+USE00672,JOB0020,GR001,Grader 12M,2026-02-21,Broadmeadows,9.5,True,False,Thomas Brown
+USE00537,JOB0017,BC001,Bobcat+8T Tipper,2026-02-23,Campbellfield,7.5,False,False,Lachlan Martin
+USE00509,JOB0017,DZ001,Dozer D6,2026-02-23,Campbellfield,10.0,False,False,William Jones
+USE00551,JOB0017,EX001,13T Excavator,2026-02-23,Campbellfield,8.5,True,True,Noah Williams
+USE00565,JOB0017,EX002,20T Excavator,2026-02-23,Campbellfield,7.5,False,False,Jack Smith
+USE00523,JOB0017,EX003,26T Excavator,2026-02-23,Campbellfield,9.5,False,False,William Jones
+USE00538,JOB0017,BC001,Bobcat+8T Tipper,2026-02-24,Campbellfield,9.5,False,False,Lachlan Martin
+USE00510,JOB0017,DZ001,Dozer D6,2026-02-24,Campbellfield,8.5,False,False,William Jones
+USE00552,JOB0017,EX001,13T Excavator,2026-02-24,Campbellfield,7.5,False,False,Noah Williams
+USE00566,JOB0017,EX002,20T Excavator,2026-02-24,Campbellfield,10.5,False,False,Jack Smith
+USE00524,JOB0017,EX003,26T Excavator,2026-02-24,Campbellfield,10.5,True,False,William Jones
+USE00802,JOB0025,BC001,Bobcat+8T Tipper,2026-02-24,Geelong,11.0,False,True,Lachlan Martin
+USE00785,JOB0025,DZ001,Dozer D6,2026-02-24,Geelong,8.0,False,True,William Jones
+USE00539,JOB0017,BC001,Bobcat+8T Tipper,2026-02-25,Campbellfield,7.0,False,True,Lachlan Martin
+USE00511,JOB0017,DZ001,Dozer D6,2026-02-25,Campbellfield,8.5,False,True,William Jones
+USE00553,JOB0017,EX001,13T Excavator,2026-02-25,Campbellfield,10.0,False,False,Noah Williams
+USE00567,JOB0017,EX002,20T Excavator,2026-02-25,Campbellfield,12.0,False,False,Jack Smith
+USE00525,JOB0017,EX003,26T Excavator,2026-02-25,Campbellfield,11.0,False,False,William Jones
+USE00803,JOB0025,BC001,Bobcat+8T Tipper,2026-02-25,Geelong,8.5,True,True,Lachlan Martin
+USE00786,JOB0025,DZ001,Dozer D6,2026-02-25,Geelong,10.5,False,True,William Jones
+USE00540,JOB0017,BC001,Bobcat+8T Tipper,2026-02-26,Campbellfield,10.0,False,True,Lachlan Martin
+USE00512,JOB0017,DZ001,Dozer D6,2026-02-26,Campbellfield,9.0,False,True,William Jones
+USE00554,JOB0017,EX001,13T Excavator,2026-02-26,Campbellfield,8.5,False,False,Noah Williams
+USE00568,JOB0017,EX002,20T Excavator,2026-02-26,Campbellfield,10.5,False,False,Jack Smith
+USE00526,JOB0017,EX003,26T Excavator,2026-02-26,Campbellfield,8.0,False,False,William Jones
+USE00804,JOB0025,BC001,Bobcat+8T Tipper,2026-02-26,Geelong,8.5,False,True,Lachlan Martin
+USE00787,JOB0025,DZ001,Dozer D6,2026-02-26,Geelong,10.0,False,True,William Jones
+USE00541,JOB0017,BC001,Bobcat+8T Tipper,2026-02-27,Campbellfield,9.5,False,True,Lachlan Martin
+USE00513,JOB0017,DZ001,Dozer D6,2026-02-27,Campbellfield,10.5,False,True,William Jones
+USE00555,JOB0017,EX001,13T Excavator,2026-02-27,Campbellfield,8.5,False,False,Noah Williams
+USE00569,JOB0017,EX002,20T Excavator,2026-02-27,Campbellfield,9.0,False,False,Jack Smith
+USE00527,JOB0017,EX003,26T Excavator,2026-02-27,Campbellfield,8.5,False,False,William Jones
+USE00805,JOB0025,BC001,Bobcat+8T Tipper,2026-02-27,Geelong,9.5,True,True,Lachlan Martin
+USE00788,JOB0025,DZ001,Dozer D6,2026-02-27,Geelong,11.5,False,True,William Jones
+USE00542,JOB0017,BC001,Bobcat+8T Tipper,2026-02-28,Campbellfield,8.0,False,True,Lachlan Martin
+USE00514,JOB0017,DZ001,Dozer D6,2026-02-28,Campbellfield,9.0,False,True,William Jones
+USE00556,JOB0017,EX001,13T Excavator,2026-02-28,Campbellfield,8.0,True,False,Noah Williams
+USE00570,JOB0017,EX002,20T Excavator,2026-02-28,Campbellfield,8.0,False,False,Jack Smith
+USE00528,JOB0017,EX003,26T Excavator,2026-02-28,Campbellfield,9.0,False,False,William Jones
+USE00806,JOB0025,BC001,Bobcat+8T Tipper,2026-02-28,Geelong,9.5,False,True,Lachlan Martin
+USE00789,JOB0025,DZ001,Dozer D6,2026-02-28,Geelong,10.5,False,True,William Jones
+USE00543,JOB0017,BC001,Bobcat+8T Tipper,2026-03-02,Campbellfield,7.5,False,True,Lachlan Martin
+USE00515,JOB0017,DZ001,Dozer D6,2026-03-02,Campbellfield,7.0,False,True,William Jones
+USE00557,JOB0017,EX001,13T Excavator,2026-03-02,Campbellfield,10.5,False,False,Noah Williams
+USE00571,JOB0017,EX002,20T Excavator,2026-03-02,Campbellfield,8.0,True,False,Jack Smith
+USE00529,JOB0017,EX003,26T Excavator,2026-03-02,Campbellfield,8.0,True,False,William Jones
+USE00807,JOB0025,BC001,Bobcat+8T Tipper,2026-03-02,Geelong,10.0,False,True,Lachlan Martin
+USE00790,JOB0025,DZ001,Dozer D6,2026-03-02,Geelong,9.0,True,True,William Jones
+USE00544,JOB0017,BC001,Bobcat+8T Tipper,2026-03-03,Campbellfield,9.0,False,True,Lachlan Martin
+USE00516,JOB0017,DZ001,Dozer D6,2026-03-03,Campbellfield,7.0,False,True,William Jones
+USE00558,JOB0017,EX001,13T Excavator,2026-03-03,Campbellfield,8.0,False,False,Noah Williams
+USE00572,JOB0017,EX002,20T Excavator,2026-03-03,Campbellfield,6.0,True,False,Jack Smith
+USE00530,JOB0017,EX003,26T Excavator,2026-03-03,Campbellfield,10.5,False,False,William Jones
+USE00808,JOB0025,BC001,Bobcat+8T Tipper,2026-03-03,Geelong,9.0,True,True,Lachlan Martin
+USE00791,JOB0025,DZ001,Dozer D6,2026-03-03,Geelong,7.0,False,True,William Jones
+USE00545,JOB0017,BC001,Bobcat+8T Tipper,2026-03-04,Campbellfield,11.0,True,True,Lachlan Martin
+USE00517,JOB0017,DZ001,Dozer D6,2026-03-04,Campbellfield,9.5,False,True,William Jones
+USE00559,JOB0017,EX001,13T Excavator,2026-03-04,Campbellfield,7.0,False,False,Noah Williams
+USE00573,JOB0017,EX002,20T Excavator,2026-03-04,Campbellfield,9.0,True,False,Jack Smith
+USE00531,JOB0017,EX003,26T Excavator,2026-03-04,Campbellfield,8.0,False,False,William Jones
+USE00809,JOB0025,BC001,Bobcat+8T Tipper,2026-03-04,Geelong,8.5,False,True,Lachlan Martin
+USE00792,JOB0025,DZ001,Dozer D6,2026-03-04,Geelong,9.0,False,True,William Jones
+USE00546,JOB0017,BC001,Bobcat+8T Tipper,2026-03-05,Campbellfield,9.0,False,True,Lachlan Martin
+USE00518,JOB0017,DZ001,Dozer D6,2026-03-05,Campbellfield,9.0,False,True,William Jones
+USE00560,JOB0017,EX001,13T Excavator,2026-03-05,Campbellfield,12.0,True,False,Noah Williams
+USE00574,JOB0017,EX002,20T Excavator,2026-03-05,Campbellfield,8.0,False,False,Jack Smith
+USE00532,JOB0017,EX003,26T Excavator,2026-03-05,Campbellfield,8.5,False,False,William Jones
+USE00810,JOB0025,BC001,Bobcat+8T Tipper,2026-03-05,Geelong,7.5,True,True,Lachlan Martin
+USE00793,JOB0025,DZ001,Dozer D6,2026-03-05,Geelong,8.0,False,True,William Jones
+USE00811,JOB0025,BC001,Bobcat+8T Tipper,2026-03-06,Geelong,9.0,False,False,Lachlan Martin
+USE00794,JOB0025,DZ001,Dozer D6,2026-03-06,Geelong,9.5,False,False,William Jones
+USE00812,JOB0025,BC001,Bobcat+8T Tipper,2026-03-07,Geelong,9.0,False,False,Lachlan Martin
+USE00795,JOB0025,DZ001,Dozer D6,2026-03-07,Geelong,10.0,False,False,William Jones
+USE00813,JOB0025,BC001,Bobcat+8T Tipper,2026-03-09,Geelong,8.5,False,False,Lachlan Martin
+USE00796,JOB0025,DZ001,Dozer D6,2026-03-09,Geelong,8.5,False,False,William Jones
+USE01031,JOB0032,BC001,Bobcat+8T Tipper,2026-03-09,Melbourne North,8.5,True,True,Lachlan Martin
+USE01079,JOB0032,EX001,13T Excavator,2026-03-09,Melbourne North,10.0,False,True,Noah Williams
+USE01047,JOB0032,EX003,26T Excavator,2026-03-09,Melbourne North,11.0,False,True,William Jones
+USE01063,JOB0032,EX005,50T Excavator,2026-03-09,Melbourne North,9.5,False,True,Lucas Wilson
+USE00814,JOB0025,BC001,Bobcat+8T Tipper,2026-03-10,Geelong,9.5,False,True,Lachlan Martin
+USE00797,JOB0025,DZ001,Dozer D6,2026-03-10,Geelong,9.0,False,False,William Jones
+USE01032,JOB0032,BC001,Bobcat+8T Tipper,2026-03-10,Melbourne North,11.0,False,True,Lachlan Martin
+USE01080,JOB0032,EX001,13T Excavator,2026-03-10,Melbourne North,6.5,False,False,Noah Williams
+USE01048,JOB0032,EX003,26T Excavator,2026-03-10,Melbourne North,8.5,False,False,William Jones
+USE01064,JOB0032,EX005,50T Excavator,2026-03-10,Melbourne North,9.0,True,False,Lucas Wilson
+USE00815,JOB0025,BC001,Bobcat+8T Tipper,2026-03-11,Geelong,7.0,False,True,Lachlan Martin
+USE00798,JOB0025,DZ001,Dozer D6,2026-03-11,Geelong,8.0,False,False,William Jones
+USE01033,JOB0032,BC001,Bobcat+8T Tipper,2026-03-11,Melbourne North,8.5,False,True,Lachlan Martin
+USE01081,JOB0032,EX001,13T Excavator,2026-03-11,Melbourne North,10.0,True,False,Noah Williams
+USE01049,JOB0032,EX003,26T Excavator,2026-03-11,Melbourne North,8.0,False,False,William Jones
+USE01065,JOB0032,EX005,50T Excavator,2026-03-11,Melbourne North,11.0,False,False,Lucas Wilson
+USE00816,JOB0025,BC001,Bobcat+8T Tipper,2026-03-12,Geelong,6.5,False,True,Lachlan Martin
+USE00799,JOB0025,DZ001,Dozer D6,2026-03-12,Geelong,8.5,False,False,William Jones
+USE01034,JOB0032,BC001,Bobcat+8T Tipper,2026-03-12,Melbourne North,8.0,False,True,Lachlan Martin
+USE01082,JOB0032,EX001,13T Excavator,2026-03-12,Melbourne North,8.5,False,False,Noah Williams
+USE01050,JOB0032,EX003,26T Excavator,2026-03-12,Melbourne North,8.0,False,False,William Jones
+USE01066,JOB0032,EX005,50T Excavator,2026-03-12,Melbourne North,8.5,False,False,Lucas Wilson
+USE00817,JOB0025,BC001,Bobcat+8T Tipper,2026-03-13,Geelong,8.0,True,True,Lachlan Martin
+USE00800,JOB0025,DZ001,Dozer D6,2026-03-13,Geelong,7.5,False,False,William Jones
+USE01035,JOB0032,BC001,Bobcat+8T Tipper,2026-03-13,Melbourne North,10.0,True,True,Lachlan Martin
+USE01083,JOB0032,EX001,13T Excavator,2026-03-13,Melbourne North,8.0,False,False,Noah Williams
+USE01051,JOB0032,EX003,26T Excavator,2026-03-13,Melbourne North,10.0,False,False,William Jones
+USE01067,JOB0032,EX005,50T Excavator,2026-03-13,Melbourne North,9.0,False,False,Lucas Wilson
+USE00818,JOB0025,BC001,Bobcat+8T Tipper,2026-03-14,Geelong,10.0,False,True,Lachlan Martin
+USE00801,JOB0025,DZ001,Dozer D6,2026-03-14,Geelong,6.5,False,False,William Jones
+USE01036,JOB0032,BC001,Bobcat+8T Tipper,2026-03-14,Melbourne North,7.5,False,True,Lachlan Martin
+USE01084,JOB0032,EX001,13T Excavator,2026-03-14,Melbourne North,9.5,False,False,Noah Williams
+USE01052,JOB0032,EX003,26T Excavator,2026-03-14,Melbourne North,9.0,False,False,William Jones
+USE01068,JOB0032,EX005,50T Excavator,2026-03-14,Melbourne North,9.5,False,False,Lucas Wilson
+USE00076,JOB0003,EX003,26T Excavator,2026-03-16,Dandenong,9.5,False,True,William Jones
+USE00070,JOB0003,EX004,35T Excavator,2026-03-16,Dandenong,8.0,False,True,Thomas Brown
+USE00166,JOB0007,DT001,Dump Truck 30T,2026-03-16,Melbourne North,11.0,False,False,Oliver Taylor
+USE00174,JOB0007,EX001,13T Excavator,2026-03-16,Melbourne North,10.0,False,False,Noah Williams
+USE00182,JOB0007,EX002,20T Excavator,2026-03-16,Melbourne North,10.0,False,True,Jack Smith
+USE00413,JOB0012,CP001,Compactor 815F,2026-03-16,Dandenong,8.5,False,True,Henry Johnson
+USE00397,JOB0012,DZ001,Dozer D6,2026-03-16,Dandenong,7.0,True,True,William Jones
+USE00381,JOB0012,EX002,20T Excavator,2026-03-16,Dandenong,8.0,False,True,Jack Smith
+USE01037,JOB0032,BC001,Bobcat+8T Tipper,2026-03-16,Melbourne North,7.0,False,False,Lachlan Martin
+USE01085,JOB0032,EX001,13T Excavator,2026-03-16,Melbourne North,9.0,True,False,Noah Williams
+USE01053,JOB0032,EX003,26T Excavator,2026-03-16,Melbourne North,8.5,False,True,William Jones
+USE01069,JOB0032,EX005,50T Excavator,2026-03-16,Melbourne North,7.0,False,False,Lucas Wilson
+USE00077,JOB0003,EX003,26T Excavator,2026-03-17,Dandenong,8.0,False,True,William Jones
+USE00071,JOB0003,EX004,35T Excavator,2026-03-17,Dandenong,8.5,False,False,Thomas Brown
+USE00167,JOB0007,DT001,Dump Truck 30T,2026-03-17,Melbourne North,7.0,False,False,Oliver Taylor
+USE00175,JOB0007,EX001,13T Excavator,2026-03-17,Melbourne North,7.5,False,False,Noah Williams
+USE00183,JOB0007,EX002,20T Excavator,2026-03-17,Melbourne North,7.5,False,True,Jack Smith
+USE00414,JOB0012,CP001,Compactor 815F,2026-03-17,Dandenong,9.5,False,False,Henry Johnson
+USE00398,JOB0012,DZ001,Dozer D6,2026-03-17,Dandenong,10.0,False,False,William Jones
+USE00382,JOB0012,EX002,20T Excavator,2026-03-17,Dandenong,9.0,False,True,Jack Smith
+USE01038,JOB0032,BC001,Bobcat+8T Tipper,2026-03-17,Melbourne North,9.5,False,False,Lachlan Martin
+USE01086,JOB0032,EX001,13T Excavator,2026-03-17,Melbourne North,8.0,False,False,Noah Williams
+USE01054,JOB0032,EX003,26T Excavator,2026-03-17,Melbourne North,7.5,False,True,William Jones
+USE01070,JOB0032,EX005,50T Excavator,2026-03-17,Melbourne North,6.5,True,False,Lucas Wilson
+USE00078,JOB0003,EX003,26T Excavator,2026-03-18,Dandenong,7.5,False,True,William Jones
+USE00072,JOB0003,EX004,35T Excavator,2026-03-18,Dandenong,10.0,False,False,Thomas Brown
+USE00168,JOB0007,DT001,Dump Truck 30T,2026-03-18,Melbourne North,6.5,False,False,Oliver Taylor
+USE00176,JOB0007,EX001,13T Excavator,2026-03-18,Melbourne North,9.5,True,False,Noah Williams
+USE00184,JOB0007,EX002,20T Excavator,2026-03-18,Melbourne North,10.5,False,True,Jack Smith
+USE00415,JOB0012,CP001,Compactor 815F,2026-03-18,Dandenong,9.0,False,False,Henry Johnson
+USE00399,JOB0012,DZ001,Dozer D6,2026-03-18,Dandenong,8.5,False,False,William Jones
+USE00383,JOB0012,EX002,20T Excavator,2026-03-18,Dandenong,9.5,False,True,Jack Smith
+USE01039,JOB0032,BC001,Bobcat+8T Tipper,2026-03-18,Melbourne North,9.0,True,False,Lachlan Martin
+USE01087,JOB0032,EX001,13T Excavator,2026-03-18,Melbourne North,9.5,False,False,Noah Williams
+USE01055,JOB0032,EX003,26T Excavator,2026-03-18,Melbourne North,9.0,True,True,William Jones
+USE01071,JOB0032,EX005,50T Excavator,2026-03-18,Melbourne North,8.5,False,False,Lucas Wilson
+USE00079,JOB0003,EX003,26T Excavator,2026-03-19,Dandenong,11.5,False,True,William Jones
+USE00073,JOB0003,EX004,35T Excavator,2026-03-19,Dandenong,8.0,False,False,Thomas Brown
+USE00169,JOB0007,DT001,Dump Truck 30T,2026-03-19,Melbourne North,10.5,False,False,Oliver Taylor
+USE00177,JOB0007,EX001,13T Excavator,2026-03-19,Melbourne North,11.0,False,False,Noah Williams
+USE00185,JOB0007,EX002,20T Excavator,2026-03-19,Melbourne North,10.0,False,True,Jack Smith
+USE00416,JOB0012,CP001,Compactor 815F,2026-03-19,Dandenong,9.5,False,False,Henry Johnson
+USE00400,JOB0012,DZ001,Dozer D6,2026-03-19,Dandenong,10.5,False,False,William Jones
+USE00384,JOB0012,EX002,20T Excavator,2026-03-19,Dandenong,10.0,True,True,Jack Smith
+USE01040,JOB0032,BC001,Bobcat+8T Tipper,2026-03-19,Melbourne North,8.5,False,False,Lachlan Martin
+USE01088,JOB0032,EX001,13T Excavator,2026-03-19,Melbourne North,10.0,False,False,Noah Williams
+USE01056,JOB0032,EX003,26T Excavator,2026-03-19,Melbourne North,7.5,False,True,William Jones
+USE01072,JOB0032,EX005,50T Excavator,2026-03-19,Melbourne North,6.0,False,False,Lucas Wilson
+USE00080,JOB0003,EX003,26T Excavator,2026-03-20,Dandenong,8.5,False,True,William Jones
+USE00074,JOB0003,EX004,35T Excavator,2026-03-20,Dandenong,10.0,False,False,Thomas Brown
+USE00170,JOB0007,DT001,Dump Truck 30T,2026-03-20,Melbourne North,8.0,False,False,Oliver Taylor
+USE00178,JOB0007,EX001,13T Excavator,2026-03-20,Melbourne North,8.0,False,False,Noah Williams
+USE00186,JOB0007,EX002,20T Excavator,2026-03-20,Melbourne North,7.5,False,True,Jack Smith
+USE00417,JOB0012,CP001,Compactor 815F,2026-03-20,Dandenong,9.5,False,False,Henry Johnson
+USE00401,JOB0012,DZ001,Dozer D6,2026-03-20,Dandenong,10.0,False,False,William Jones
+USE00385,JOB0012,EX002,20T Excavator,2026-03-20,Dandenong,11.0,False,True,Jack Smith
+USE01041,JOB0032,BC001,Bobcat+8T Tipper,2026-03-20,Melbourne North,8.5,True,False,Lachlan Martin
+USE01089,JOB0032,EX001,13T Excavator,2026-03-20,Melbourne North,8.0,False,False,Noah Williams
+USE01057,JOB0032,EX003,26T Excavator,2026-03-20,Melbourne North,8.5,False,True,William Jones
+USE01073,JOB0032,EX005,50T Excavator,2026-03-20,Melbourne North,7.0,False,False,Lucas Wilson
+USE00081,JOB0003,EX003,26T Excavator,2026-03-21,Dandenong,10.0,False,True,William Jones
+USE00075,JOB0003,EX004,35T Excavator,2026-03-21,Dandenong,10.0,False,False,Thomas Brown
+USE00171,JOB0007,DT001,Dump Truck 30T,2026-03-21,Melbourne North,8.0,False,False,Oliver Taylor
+USE00179,JOB0007,EX001,13T Excavator,2026-03-21,Melbourne North,9.5,False,False,Noah Williams
+USE00187,JOB0007,EX002,20T Excavator,2026-03-21,Melbourne North,9.5,True,True,Jack Smith
+USE00418,JOB0012,CP001,Compactor 815F,2026-03-21,Dandenong,9.5,False,False,Henry Johnson
+USE00402,JOB0012,DZ001,Dozer D6,2026-03-21,Dandenong,10.0,False,False,William Jones
+USE00386,JOB0012,EX002,20T Excavator,2026-03-21,Dandenong,10.0,False,True,Jack Smith
+USE00940,JOB0029,DZ001,Dozer D6,2026-03-21,Geelong,10.5,False,True,William Jones
+USE00953,JOB0029,EX003,26T Excavator,2026-03-21,Geelong,9.5,True,True,William Jones
+USE00979,JOB0029,EX004,35T Excavator,2026-03-21,Geelong,8.5,True,True,Thomas Brown
+USE00966,JOB0029,GR001,Grader 12M,2026-03-21,Geelong,12.0,False,True,Thomas Brown
+USE00927,JOB0029,LD002,Loader 4m,2026-03-21,Geelong,11.0,False,True,Jack Smith
+USE01042,JOB0032,BC001,Bobcat+8T Tipper,2026-03-21,Melbourne North,8.0,True,False,Lachlan Martin
+USE01090,JOB0032,EX001,13T Excavator,2026-03-21,Melbourne North,10.5,False,False,Noah Williams
+USE01058,JOB0032,EX003,26T Excavator,2026-03-21,Melbourne North,10.0,False,True,William Jones
+USE01074,JOB0032,EX005,50T Excavator,2026-03-21,Melbourne North,9.0,False,False,Lucas Wilson
+USE00172,JOB0007,DT001,Dump Truck 30T,2026-03-23,Melbourne North,9.0,False,False,Oliver Taylor
+USE00180,JOB0007,EX001,13T Excavator,2026-03-23,Melbourne North,8.0,False,False,Noah Williams
+USE00188,JOB0007,EX002,20T Excavator,2026-03-23,Melbourne North,9.0,False,True,Jack Smith
+USE00419,JOB0012,CP001,Compactor 815F,2026-03-23,Dandenong,9.5,False,False,Henry Johnson
+USE00403,JOB0012,DZ001,Dozer D6,2026-03-23,Dandenong,12.0,False,True,William Jones
+USE00387,JOB0012,EX002,20T Excavator,2026-03-23,Dandenong,9.5,False,True,Jack Smith
+USE00843,JOB0027,CP001,Compactor 815F,2026-03-23,Pakenham,9.5,False,True,Henry Johnson
+USE00857,JOB0027,DZ001,Dozer D6,2026-03-23,Pakenham,10.0,True,True,William Jones
+USE00885,JOB0027,EX004,35T Excavator,2026-03-23,Pakenham,8.0,True,True,Thomas Brown
+USE00871,JOB0027,EX005,50T Excavator,2026-03-23,Pakenham,8.0,False,True,Lucas Wilson
+USE00941,JOB0029,DZ001,Dozer D6,2026-03-23,Geelong,6.0,False,True,William Jones
+USE00954,JOB0029,EX003,26T Excavator,2026-03-23,Geelong,7.5,True,True,William Jones
+USE00980,JOB0029,EX004,35T Excavator,2026-03-23,Geelong,9.5,False,True,Thomas Brown
+USE00967,JOB0029,GR001,Grader 12M,2026-03-23,Geelong,9.0,False,False,Thomas Brown
+USE00928,JOB0029,LD002,Loader 4m,2026-03-23,Geelong,8.0,False,False,Jack Smith
+USE01043,JOB0032,BC001,Bobcat+8T Tipper,2026-03-23,Melbourne North,10.5,False,False,Lachlan Martin
+USE01091,JOB0032,EX001,13T Excavator,2026-03-23,Melbourne North,8.5,False,False,Noah Williams
+USE01059,JOB0032,EX003,26T Excavator,2026-03-23,Melbourne North,9.5,True,True,William Jones
+USE01075,JOB0032,EX005,50T Excavator,2026-03-23,Melbourne North,8.0,False,True,Lucas Wilson
+USE00173,JOB0007,DT001,Dump Truck 30T,2026-03-24,Melbourne North,8.0,False,False,Oliver Taylor
+USE00181,JOB0007,EX001,13T Excavator,2026-03-24,Melbourne North,7.5,False,False,Noah Williams
+USE00189,JOB0007,EX002,20T Excavator,2026-03-24,Melbourne North,8.0,False,True,Jack Smith
+USE00420,JOB0012,CP001,Compactor 815F,2026-03-24,Dandenong,9.5,True,True,Henry Johnson
+USE00404,JOB0012,DZ001,Dozer D6,2026-03-24,Dandenong,8.0,False,True,William Jones
+USE00388,JOB0012,EX002,20T Excavator,2026-03-24,Dandenong,8.5,False,True,Jack Smith
+USE00844,JOB0027,CP001,Compactor 815F,2026-03-24,Pakenham,9.0,False,True,Henry Johnson
+USE00858,JOB0027,DZ001,Dozer D6,2026-03-24,Pakenham,7.0,False,True,William Jones
+USE00886,JOB0027,EX004,35T Excavator,2026-03-24,Pakenham,10.0,False,True,Thomas Brown
+USE00872,JOB0027,EX005,50T Excavator,2026-03-24,Pakenham,9.5,True,True,Lucas Wilson
+USE00942,JOB0029,DZ001,Dozer D6,2026-03-24,Geelong,8.0,True,True,William Jones
+USE00955,JOB0029,EX003,26T Excavator,2026-03-24,Geelong,8.0,False,True,William Jones
+USE00981,JOB0029,EX004,35T Excavator,2026-03-24,Geelong,8.5,False,True,Thomas Brown
+USE00968,JOB0029,GR001,Grader 12M,2026-03-24,Geelong,12.0,False,False,Thomas Brown
+USE00929,JOB0029,LD002,Loader 4m,2026-03-24,Geelong,10.5,False,False,Jack Smith
+USE01044,JOB0032,BC001,Bobcat+8T Tipper,2026-03-24,Melbourne North,6.0,True,False,Lachlan Martin
+USE01092,JOB0032,EX001,13T Excavator,2026-03-24,Melbourne North,9.0,False,False,Noah Williams
+USE01060,JOB0032,EX003,26T Excavator,2026-03-24,Melbourne North,7.5,False,True,William Jones
+USE01076,JOB0032,EX005,50T Excavator,2026-03-24,Melbourne North,9.0,False,True,Lucas Wilson
+USE00421,JOB0012,CP001,Compactor 815F,2026-03-25,Dandenong,9.0,False,True,Henry Johnson
+USE00405,JOB0012,DZ001,Dozer D6,2026-03-25,Dandenong,9.0,False,True,William Jones
+USE00389,JOB0012,EX002,20T Excavator,2026-03-25,Dandenong,9.5,False,False,Jack Smith
+USE00845,JOB0027,CP001,Compactor 815F,2026-03-25,Pakenham,10.5,False,True,Henry Johnson
+USE00859,JOB0027,DZ001,Dozer D6,2026-03-25,Pakenham,9.0,False,True,William Jones
+USE00887,JOB0027,EX004,35T Excavator,2026-03-25,Pakenham,8.0,False,True,Thomas Brown
+USE00873,JOB0027,EX005,50T Excavator,2026-03-25,Pakenham,11.0,False,True,Lucas Wilson
+USE00943,JOB0029,DZ001,Dozer D6,2026-03-25,Geelong,9.5,False,True,William Jones
+USE00956,JOB0029,EX003,26T Excavator,2026-03-25,Geelong,10.5,False,True,William Jones
+USE00982,JOB0029,EX004,35T Excavator,2026-03-25,Geelong,10.5,False,True,Thomas Brown
+USE00969,JOB0029,GR001,Grader 12M,2026-03-25,Geelong,9.0,False,False,Thomas Brown
+USE00930,JOB0029,LD002,Loader 4m,2026-03-25,Geelong,9.0,False,False,Jack Smith
+USE01045,JOB0032,BC001,Bobcat+8T Tipper,2026-03-25,Melbourne North,9.0,False,False,Lachlan Martin
+USE01093,JOB0032,EX001,13T Excavator,2026-03-25,Melbourne North,6.0,False,False,Noah Williams
+USE01061,JOB0032,EX003,26T Excavator,2026-03-25,Melbourne North,10.5,False,True,William Jones
+USE01077,JOB0032,EX005,50T Excavator,2026-03-25,Melbourne North,9.0,False,True,Lucas Wilson
+USE00422,JOB0012,CP001,Compactor 815F,2026-03-26,Dandenong,8.5,False,True,Henry Johnson
+USE00406,JOB0012,DZ001,Dozer D6,2026-03-26,Dandenong,9.0,False,True,William Jones
+USE00390,JOB0012,EX002,20T Excavator,2026-03-26,Dandenong,10.0,False,False,Jack Smith
+USE00491,JOB0015,BC001,Bobcat+8T Tipper,2026-03-26,Epping,9.5,False,True,Lachlan Martin
+USE00483,JOB0015,EX002,20T Excavator,2026-03-26,Epping,8.0,False,True,Jack Smith
+USE00475,JOB0015,EX004,35T Excavator,2026-03-26,Epping,9.5,False,True,Thomas Brown
+USE00846,JOB0027,CP001,Compactor 815F,2026-03-26,Pakenham,9.5,False,True,Henry Johnson
+USE00860,JOB0027,DZ001,Dozer D6,2026-03-26,Pakenham,11.0,False,True,William Jones
+USE00888,JOB0027,EX004,35T Excavator,2026-03-26,Pakenham,10.5,True,True,Thomas Brown
+USE00874,JOB0027,EX005,50T Excavator,2026-03-26,Pakenham,9.5,False,True,Lucas Wilson
+USE00944,JOB0029,DZ001,Dozer D6,2026-03-26,Geelong,7.5,False,True,William Jones
+USE00957,JOB0029,EX003,26T Excavator,2026-03-26,Geelong,7.0,False,True,William Jones
+USE00983,JOB0029,EX004,35T Excavator,2026-03-26,Geelong,7.5,False,True,Thomas Brown
+USE00970,JOB0029,GR001,Grader 12M,2026-03-26,Geelong,8.5,False,False,Thomas Brown
+USE00931,JOB0029,LD002,Loader 4m,2026-03-26,Geelong,8.0,False,False,Jack Smith
+USE01046,JOB0032,BC001,Bobcat+8T Tipper,2026-03-26,Melbourne North,9.5,False,True,Lachlan Martin
+USE01094,JOB0032,EX001,13T Excavator,2026-03-26,Melbourne North,8.5,False,False,Noah Williams
+USE01062,JOB0032,EX003,26T Excavator,2026-03-26,Melbourne North,7.0,False,True,William Jones
+USE01078,JOB0032,EX005,50T Excavator,2026-03-26,Melbourne North,8.0,False,True,Lucas Wilson
+USE00423,JOB0012,CP001,Compactor 815F,2026-03-27,Dandenong,10.0,False,True,Henry Johnson
+USE00407,JOB0012,DZ001,Dozer D6,2026-03-27,Dandenong,9.5,True,True,William Jones
+USE00391,JOB0012,EX002,20T Excavator,2026-03-27,Dandenong,10.5,False,True,Jack Smith
+USE00492,JOB0015,BC001,Bobcat+8T Tipper,2026-03-27,Epping,10.5,True,True,Lachlan Martin
+USE00484,JOB0015,EX002,20T Excavator,2026-03-27,Epping,6.5,False,True,Jack Smith
+USE00476,JOB0015,EX004,35T Excavator,2026-03-27,Epping,10.0,False,True,Thomas Brown
+USE00847,JOB0027,CP001,Compactor 815F,2026-03-27,Pakenham,9.0,False,True,Henry Johnson
+USE00861,JOB0027,DZ001,Dozer D6,2026-03-27,Pakenham,12.0,False,True,William Jones
+USE00889,JOB0027,EX004,35T Excavator,2026-03-27,Pakenham,6.5,False,True,Thomas Brown
+USE00875,JOB0027,EX005,50T Excavator,2026-03-27,Pakenham,11.0,False,True,Lucas Wilson
+USE00945,JOB0029,DZ001,Dozer D6,2026-03-27,Geelong,9.5,False,True,William Jones
+USE00958,JOB0029,EX003,26T Excavator,2026-03-27,Geelong,10.5,False,True,William Jones
+USE00984,JOB0029,EX004,35T Excavator,2026-03-27,Geelong,7.0,False,True,Thomas Brown
+USE00971,JOB0029,GR001,Grader 12M,2026-03-27,Geelong,9.5,False,False,Thomas Brown
+USE00932,JOB0029,LD002,Loader 4m,2026-03-27,Geelong,11.0,False,False,Jack Smith
+USE00278,JOB0009,BC001,Bobcat+8T Tipper,2026-03-28,Dandenong,9.0,False,True,Lachlan Martin
+USE00250,JOB0009,CP001,Compactor 815F,2026-03-28,Dandenong,8.5,False,True,Henry Johnson
+USE00264,JOB0009,GR001,Grader 12M,2026-03-28,Dandenong,10.0,False,True,Thomas Brown
+USE00292,JOB0009,LD001,Loader 3m,2026-03-28,Dandenong,10.0,False,True,Noah Williams
+USE00306,JOB0009,LD002,Loader 4m,2026-03-28,Dandenong,8.0,False,True,Jack Smith
+USE00424,JOB0012,CP001,Compactor 815F,2026-03-28,Dandenong,12.0,False,False,Henry Johnson
+USE00408,JOB0012,DZ001,Dozer D6,2026-03-28,Dandenong,9.0,True,True,William Jones
+USE00392,JOB0012,EX002,20T Excavator,2026-03-28,Dandenong,9.0,False,True,Jack Smith
+USE00493,JOB0015,BC001,Bobcat+8T Tipper,2026-03-28,Epping,12.0,False,True,Lachlan Martin
+USE00485,JOB0015,EX002,20T Excavator,2026-03-28,Epping,8.5,True,True,Jack Smith
+USE00477,JOB0015,EX004,35T Excavator,2026-03-28,Epping,8.5,False,True,Thomas Brown
+USE00848,JOB0027,CP001,Compactor 815F,2026-03-28,Pakenham,6.0,False,True,Henry Johnson
+USE00862,JOB0027,DZ001,Dozer D6,2026-03-28,Pakenham,9.5,False,True,William Jones
+USE00890,JOB0027,EX004,35T Excavator,2026-03-28,Pakenham,6.0,True,True,Thomas Brown
+USE00876,JOB0027,EX005,50T Excavator,2026-03-28,Pakenham,9.0,False,False,Lucas Wilson
+USE00946,JOB0029,DZ001,Dozer D6,2026-03-28,Geelong,8.5,True,True,William Jones
+USE00959,JOB0029,EX003,26T Excavator,2026-03-28,Geelong,10.5,False,False,William Jones
+USE00985,JOB0029,EX004,35T Excavator,2026-03-28,Geelong,8.5,False,True,Thomas Brown
+USE00972,JOB0029,GR001,Grader 12M,2026-03-28,Geelong,8.5,False,True,Thomas Brown
+USE00933,JOB0029,LD002,Loader 4m,2026-03-28,Geelong,8.0,False,True,Jack Smith
+USE00279,JOB0009,BC001,Bobcat+8T Tipper,2026-03-30,Dandenong,9.5,False,True,Lachlan Martin
+USE00251,JOB0009,CP001,Compactor 815F,2026-03-30,Dandenong,9.0,False,True,Henry Johnson
+USE00265,JOB0009,GR001,Grader 12M,2026-03-30,Dandenong,8.0,False,True,Thomas Brown
+USE00293,JOB0009,LD001,Loader 3m,2026-03-30,Dandenong,8.0,False,False,Noah Williams
+USE00307,JOB0009,LD002,Loader 4m,2026-03-30,Dandenong,9.0,False,True,Jack Smith
+USE00425,JOB0012,CP001,Compactor 815F,2026-03-30,Dandenong,8.5,False,False,Henry Johnson
+USE00409,JOB0012,DZ001,Dozer D6,2026-03-30,Dandenong,10.5,True,True,William Jones
+USE00393,JOB0012,EX002,20T Excavator,2026-03-30,Dandenong,8.5,False,True,Jack Smith
+USE00494,JOB0015,BC001,Bobcat+8T Tipper,2026-03-30,Epping,8.5,False,True,Lachlan Martin
+USE00486,JOB0015,EX002,20T Excavator,2026-03-30,Epping,8.5,False,True,Jack Smith
+USE00478,JOB0015,EX004,35T Excavator,2026-03-30,Epping,9.0,True,True,Thomas Brown
+USE00849,JOB0027,CP001,Compactor 815F,2026-03-30,Pakenham,7.5,False,True,Henry Johnson
+USE00863,JOB0027,DZ001,Dozer D6,2026-03-30,Pakenham,8.0,False,True,William Jones
+USE00891,JOB0027,EX004,35T Excavator,2026-03-30,Pakenham,11.5,False,True,Thomas Brown
+USE00877,JOB0027,EX005,50T Excavator,2026-03-30,Pakenham,7.0,False,False,Lucas Wilson
+USE00947,JOB0029,DZ001,Dozer D6,2026-03-30,Geelong,9.0,True,True,William Jones
+USE00960,JOB0029,EX003,26T Excavator,2026-03-30,Geelong,8.5,False,False,William Jones
+USE00986,JOB0029,EX004,35T Excavator,2026-03-30,Geelong,7.5,False,True,Thomas Brown
+USE00973,JOB0029,GR001,Grader 12M,2026-03-30,Geelong,8.5,False,True,Thomas Brown
+USE00934,JOB0029,LD002,Loader 4m,2026-03-30,Geelong,10.0,False,True,Jack Smith
+USE00280,JOB0009,BC001,Bobcat+8T Tipper,2026-03-31,Dandenong,7.0,False,True,Lachlan Martin
+USE00252,JOB0009,CP001,Compactor 815F,2026-03-31,Dandenong,8.5,False,True,Henry Johnson
+USE00266,JOB0009,GR001,Grader 12M,2026-03-31,Dandenong,11.5,True,True,Thomas Brown
+USE00294,JOB0009,LD001,Loader 3m,2026-03-31,Dandenong,8.5,False,False,Noah Williams
+USE00308,JOB0009,LD002,Loader 4m,2026-03-31,Dandenong,9.5,False,True,Jack Smith
+USE00426,JOB0012,CP001,Compactor 815F,2026-03-31,Dandenong,9.5,False,False,Henry Johnson
+USE00410,JOB0012,DZ001,Dozer D6,2026-03-31,Dandenong,11.0,False,True,William Jones
+USE00394,JOB0012,EX002,20T Excavator,2026-03-31,Dandenong,8.5,False,True,Jack Smith
+USE00495,JOB0015,BC001,Bobcat+8T Tipper,2026-03-31,Epping,9.5,False,True,Lachlan Martin
+USE00487,JOB0015,EX002,20T Excavator,2026-03-31,Epping,9.5,False,True,Jack Smith
+USE00479,JOB0015,EX004,35T Excavator,2026-03-31,Epping,11.0,False,True,Thomas Brown
+USE00850,JOB0027,CP001,Compactor 815F,2026-03-31,Pakenham,8.5,False,True,Henry Johnson
+USE00864,JOB0027,DZ001,Dozer D6,2026-03-31,Pakenham,10.5,False,True,William Jones
+USE00892,JOB0027,EX004,35T Excavator,2026-03-31,Pakenham,10.0,False,True,Thomas Brown
+USE00878,JOB0027,EX005,50T Excavator,2026-03-31,Pakenham,10.5,False,False,Lucas Wilson
+USE00948,JOB0029,DZ001,Dozer D6,2026-03-31,Geelong,9.5,True,True,William Jones
+USE00961,JOB0029,EX003,26T Excavator,2026-03-31,Geelong,8.0,False,False,William Jones
+USE00987,JOB0029,EX004,35T Excavator,2026-03-31,Geelong,10.5,False,True,Thomas Brown
+USE00974,JOB0029,GR001,Grader 12M,2026-03-31,Geelong,8.5,True,True,Thomas Brown
+USE00935,JOB0029,LD002,Loader 4m,2026-03-31,Geelong,7.5,False,True,Jack Smith
+USE00281,JOB0009,BC001,Bobcat+8T Tipper,2026-04-01,Dandenong,10.5,False,True,Lachlan Martin
+USE00253,JOB0009,CP001,Compactor 815F,2026-04-01,Dandenong,11.5,False,True,Henry Johnson
+USE00267,JOB0009,GR001,Grader 12M,2026-04-01,Dandenong,10.0,False,True,Thomas Brown
+USE00295,JOB0009,LD001,Loader 3m,2026-04-01,Dandenong,6.5,False,False,Noah Williams
+USE00309,JOB0009,LD002,Loader 4m,2026-04-01,Dandenong,9.0,False,True,Jack Smith
+USE00427,JOB0012,CP001,Compactor 815F,2026-04-01,Dandenong,10.0,False,False,Henry Johnson
+USE00411,JOB0012,DZ001,Dozer D6,2026-04-01,Dandenong,9.5,False,True,William Jones
+USE00395,JOB0012,EX002,20T Excavator,2026-04-01,Dandenong,9.0,False,True,Jack Smith
+USE00496,JOB0015,BC001,Bobcat+8T Tipper,2026-04-01,Epping,10.0,False,True,Lachlan Martin
+USE00488,JOB0015,EX002,20T Excavator,2026-04-01,Epping,10.0,False,True,Jack Smith
+USE00480,JOB0015,EX004,35T Excavator,2026-04-01,Epping,11.5,False,True,Thomas Brown
+USE00851,JOB0027,CP001,Compactor 815F,2026-04-01,Pakenham,9.0,True,True,Henry Johnson
+USE00865,JOB0027,DZ001,Dozer D6,2026-04-01,Pakenham,8.5,False,True,William Jones
+USE00893,JOB0027,EX004,35T Excavator,2026-04-01,Pakenham,8.5,False,True,Thomas Brown
+USE00879,JOB0027,EX005,50T Excavator,2026-04-01,Pakenham,10.5,False,False,Lucas Wilson
+USE00949,JOB0029,DZ001,Dozer D6,2026-04-01,Geelong,10.5,True,True,William Jones
+USE00962,JOB0029,EX003,26T Excavator,2026-04-01,Geelong,8.5,True,False,William Jones
+USE00988,JOB0029,EX004,35T Excavator,2026-04-01,Geelong,7.0,False,True,Thomas Brown
+USE00975,JOB0029,GR001,Grader 12M,2026-04-01,Geelong,6.5,False,True,Thomas Brown
+USE00936,JOB0029,LD002,Loader 4m,2026-04-01,Geelong,8.5,False,True,Jack Smith
+USE00154,JOB0006,CP001,Compactor 815F,2026-04-02,Geelong,8.5,False,True,Henry Johnson
+USE00142,JOB0006,EX001,13T Excavator,2026-04-02,Geelong,10.0,False,True,Noah Williams
+USE00160,JOB0006,GR001,Grader 12M,2026-04-02,Geelong,8.5,False,False,Thomas Brown
+USE00148,JOB0006,LD002,Loader 4m,2026-04-02,Geelong,9.0,False,False,Jack Smith
+USE00282,JOB0009,BC001,Bobcat+8T Tipper,2026-04-02,Dandenong,8.0,False,True,Lachlan Martin
+USE00254,JOB0009,CP001,Compactor 815F,2026-04-02,Dandenong,7.0,False,True,Henry Johnson
+USE00268,JOB0009,GR001,Grader 12M,2026-04-02,Dandenong,10.5,False,True,Thomas Brown
+USE00296,JOB0009,LD001,Loader 3m,2026-04-02,Dandenong,10.0,False,False,Noah Williams
+USE00310,JOB0009,LD002,Loader 4m,2026-04-02,Dandenong,10.0,True,True,Jack Smith
+USE00428,JOB0012,CP001,Compactor 815F,2026-04-02,Dandenong,7.5,False,False,Henry Johnson
+USE00412,JOB0012,DZ001,Dozer D6,2026-04-02,Dandenong,8.5,False,True,William Jones
+USE00396,JOB0012,EX002,20T Excavator,2026-04-02,Dandenong,9.5,False,True,Jack Smith
+USE00497,JOB0015,BC001,Bobcat+8T Tipper,2026-04-02,Epping,9.0,False,True,Lachlan Martin
+USE00489,JOB0015,EX002,20T Excavator,2026-04-02,Epping,8.5,False,True,Jack Smith
+USE00481,JOB0015,EX004,35T Excavator,2026-04-02,Epping,9.5,False,True,Thomas Brown
+USE00852,JOB0027,CP001,Compactor 815F,2026-04-02,Pakenham,11.0,False,True,Henry Johnson
+USE00866,JOB0027,DZ001,Dozer D6,2026-04-02,Pakenham,8.0,True,True,William Jones
+USE00894,JOB0027,EX004,35T Excavator,2026-04-02,Pakenham,10.5,False,True,Thomas Brown
+USE00880,JOB0027,EX005,50T Excavator,2026-04-02,Pakenham,7.0,False,False,Lucas Wilson
+USE00920,JOB0028,DZ001,Dozer D6,2026-04-02,Melbourne North,11.5,False,True,William Jones
+USE00899,JOB0028,EX001,13T Excavator,2026-04-02,Melbourne North,11.0,False,True,Noah Williams
+USE00906,JOB0028,EX002,20T Excavator,2026-04-02,Melbourne North,8.5,False,True,Jack Smith
+USE00913,JOB0028,EX004,35T Excavator,2026-04-02,Melbourne North,8.5,True,True,Thomas Brown
+USE00950,JOB0029,DZ001,Dozer D6,2026-04-02,Geelong,6.0,True,True,William Jones
+USE00963,JOB0029,EX003,26T Excavator,2026-04-02,Geelong,7.5,False,False,William Jones
+USE00989,JOB0029,EX004,35T Excavator,2026-04-02,Geelong,10.0,False,True,Thomas Brown
+USE00976,JOB0029,GR001,Grader 12M,2026-04-02,Geelong,8.0,False,True,Thomas Brown
+USE00937,JOB0029,LD002,Loader 4m,2026-04-02,Geelong,9.0,False,True,Jack Smith
+USE00155,JOB0006,CP001,Compactor 815F,2026-04-03,Geelong,9.5,False,True,Henry Johnson
+USE00143,JOB0006,EX001,13T Excavator,2026-04-03,Geelong,8.5,True,True,Noah Williams
+USE00161,JOB0006,GR001,Grader 12M,2026-04-03,Geelong,9.5,False,False,Thomas Brown
+USE00149,JOB0006,LD002,Loader 4m,2026-04-03,Geelong,10.0,False,False,Jack Smith
+USE00283,JOB0009,BC001,Bobcat+8T Tipper,2026-04-03,Dandenong,7.5,False,True,Lachlan Martin
+USE00255,JOB0009,CP001,Compactor 815F,2026-04-03,Dandenong,8.0,False,True,Henry Johnson
+USE00269,JOB0009,GR001,Grader 12M,2026-04-03,Dandenong,10.5,False,True,Thomas Brown
+USE00297,JOB0009,LD001,Loader 3m,2026-04-03,Dandenong,6.5,False,False,Noah Williams
+USE00311,JOB0009,LD002,Loader 4m,2026-04-03,Dandenong,11.0,False,True,Jack Smith
+USE00498,JOB0015,BC001,Bobcat+8T Tipper,2026-04-03,Epping,8.5,False,True,Lachlan Martin
+USE00490,JOB0015,EX002,20T Excavator,2026-04-03,Epping,9.0,True,True,Jack Smith
+USE00482,JOB0015,EX004,35T Excavator,2026-04-03,Epping,8.0,True,True,Thomas Brown
+USE00853,JOB0027,CP001,Compactor 815F,2026-04-03,Pakenham,8.0,False,True,Henry Johnson
+USE00867,JOB0027,DZ001,Dozer D6,2026-04-03,Pakenham,6.0,False,True,William Jones
+USE00895,JOB0027,EX004,35T Excavator,2026-04-03,Pakenham,7.0,False,True,Thomas Brown
+USE00881,JOB0027,EX005,50T Excavator,2026-04-03,Pakenham,9.0,False,False,Lucas Wilson
+USE00921,JOB0028,DZ001,Dozer D6,2026-04-03,Melbourne North,8.5,True,True,William Jones
+USE00900,JOB0028,EX001,13T Excavator,2026-04-03,Melbourne North,10.0,False,True,Noah Williams
+USE00907,JOB0028,EX002,20T Excavator,2026-04-03,Melbourne North,7.5,False,True,Jack Smith
+USE00914,JOB0028,EX004,35T Excavator,2026-04-03,Melbourne North,8.0,False,True,Thomas Brown
+USE00951,JOB0029,DZ001,Dozer D6,2026-04-03,Geelong,8.5,True,True,William Jones
+USE00964,JOB0029,EX003,26T Excavator,2026-04-03,Geelong,9.5,False,False,William Jones
+USE00990,JOB0029,EX004,35T Excavator,2026-04-03,Geelong,9.0,False,True,Thomas Brown
+USE00977,JOB0029,GR001,Grader 12M,2026-04-03,Geelong,8.0,False,True,Thomas Brown
+USE00938,JOB0029,LD002,Loader 4m,2026-04-03,Geelong,9.5,False,True,Jack Smith
+USE00156,JOB0006,CP001,Compactor 815F,2026-04-04,Geelong,8.5,False,True,Henry Johnson
+USE00144,JOB0006,EX001,13T Excavator,2026-04-04,Geelong,11.0,False,True,Noah Williams
+USE00162,JOB0006,GR001,Grader 12M,2026-04-04,Geelong,7.5,False,False,Thomas Brown
+USE00150,JOB0006,LD002,Loader 4m,2026-04-04,Geelong,8.0,False,False,Jack Smith
+USE00284,JOB0009,BC001,Bobcat+8T Tipper,2026-04-04,Dandenong,11.5,False,True,Lachlan Martin
+USE00256,JOB0009,CP001,Compactor 815F,2026-04-04,Dandenong,8.5,True,True,Henry Johnson
+USE00270,JOB0009,GR001,Grader 12M,2026-04-04,Dandenong,7.0,False,True,Thomas Brown
+USE00298,JOB0009,LD001,Loader 3m,2026-04-04,Dandenong,8.0,False,False,Noah Williams
+USE00312,JOB0009,LD002,Loader 4m,2026-04-04,Dandenong,8.5,False,True,Jack Smith
+USE00854,JOB0027,CP001,Compactor 815F,2026-04-04,Pakenham,7.0,True,True,Henry Johnson
+USE00868,JOB0027,DZ001,Dozer D6,2026-04-04,Pakenham,8.0,False,True,William Jones
+USE00896,JOB0027,EX004,35T Excavator,2026-04-04,Pakenham,8.0,False,True,Thomas Brown
+USE00882,JOB0027,EX005,50T Excavator,2026-04-04,Pakenham,11.0,False,False,Lucas Wilson
+USE00922,JOB0028,DZ001,Dozer D6,2026-04-04,Melbourne North,9.0,False,True,William Jones
+USE00901,JOB0028,EX001,13T Excavator,2026-04-04,Melbourne North,11.0,False,True,Noah Williams
+USE00908,JOB0028,EX002,20T Excavator,2026-04-04,Melbourne North,10.0,False,False,Jack Smith
+USE00915,JOB0028,EX004,35T Excavator,2026-04-04,Melbourne North,9.0,True,True,Thomas Brown
+USE00952,JOB0029,DZ001,Dozer D6,2026-04-04,Geelong,10.5,False,True,William Jones
+USE00965,JOB0029,EX003,26T Excavator,2026-04-04,Geelong,8.5,False,False,William Jones
+USE00991,JOB0029,EX004,35T Excavator,2026-04-04,Geelong,9.5,False,True,Thomas Brown
+USE00978,JOB0029,GR001,Grader 12M,2026-04-04,Geelong,9.0,False,True,Thomas Brown
+USE00939,JOB0029,LD002,Loader 4m,2026-04-04,Geelong,7.0,False,True,Jack Smith
+USE00157,JOB0006,CP001,Compactor 815F,2026-04-06,Geelong,8.0,False,True,Henry Johnson
+USE00145,JOB0006,EX001,13T Excavator,2026-04-06,Geelong,7.5,False,True,Noah Williams
+USE00163,JOB0006,GR001,Grader 12M,2026-04-06,Geelong,7.0,False,False,Thomas Brown
+USE00151,JOB0006,LD002,Loader 4m,2026-04-06,Geelong,7.5,False,False,Jack Smith
+USE00285,JOB0009,BC001,Bobcat+8T Tipper,2026-04-06,Dandenong,11.5,False,False,Lachlan Martin
+USE00257,JOB0009,CP001,Compactor 815F,2026-04-06,Dandenong,9.0,False,True,Henry Johnson
+USE00271,JOB0009,GR001,Grader 12M,2026-04-06,Dandenong,8.5,False,True,Thomas Brown
+USE00299,JOB0009,LD001,Loader 3m,2026-04-06,Dandenong,8.0,False,False,Noah Williams
+USE00313,JOB0009,LD002,Loader 4m,2026-04-06,Dandenong,7.5,False,True,Jack Smith
+USE00503,JOB0016,CP001,Compactor 815F,2026-04-06,Epping,7.5,False,True,Henry Johnson
+USE00499,JOB0016,EX001,13T Excavator,2026-04-06,Epping,7.5,False,True,Noah Williams
+USE00501,JOB0016,EX005,50T Excavator,2026-04-06,Epping,7.0,False,True,Lucas Wilson
+USE00587,JOB0018,CP001,Compactor 815F,2026-04-06,Broadmeadows,10.0,False,True,Henry Johnson
+USE00575,JOB0018,DT001,Dump Truck 30T,2026-04-06,Broadmeadows,9.5,False,True,Oliver Taylor
+USE00623,JOB0018,EX001,13T Excavator,2026-04-06,Broadmeadows,6.0,False,True,Noah Williams
+USE00599,JOB0018,EX002,20T Excavator,2026-04-06,Broadmeadows,7.5,False,True,Jack Smith
+USE00611,JOB0018,LD002,Loader 4m,2026-04-06,Broadmeadows,9.0,False,True,Jack Smith
+USE00855,JOB0027,CP001,Compactor 815F,2026-04-06,Pakenham,8.5,True,True,Henry Johnson
+USE00869,JOB0027,DZ001,Dozer D6,2026-04-06,Pakenham,9.0,False,True,William Jones
+USE00897,JOB0027,EX004,35T Excavator,2026-04-06,Pakenham,10.0,False,True,Thomas Brown
+USE00883,JOB0027,EX005,50T Excavator,2026-04-06,Pakenham,7.5,False,True,Lucas Wilson
+USE00923,JOB0028,DZ001,Dozer D6,2026-04-06,Melbourne North,6.0,False,True,William Jones
+USE00902,JOB0028,EX001,13T Excavator,2026-04-06,Melbourne North,8.0,False,True,Noah Williams
+USE00909,JOB0028,EX002,20T Excavator,2026-04-06,Melbourne North,10.0,False,True,Jack Smith
+USE00916,JOB0028,EX004,35T Excavator,2026-04-06,Melbourne North,9.0,False,True,Thomas Brown
+USE00082,JOB0004,BC001,Bobcat+8T Tipper,2026-04-07,Pakenham,9.5,False,True,Lachlan Martin
+USE00090,JOB0004,EX003,26T Excavator,2026-04-07,Pakenham,12.0,True,True,William Jones
+USE00086,JOB0004,EX005,50T Excavator,2026-04-07,Pakenham,8.5,False,False,Lucas Wilson
+USE00094,JOB0004,LD002,Loader 4m,2026-04-07,Pakenham,11.0,False,True,Jack Smith
+USE00158,JOB0006,CP001,Compactor 815F,2026-04-07,Geelong,6.5,False,True,Henry Johnson
+USE00146,JOB0006,EX001,13T Excavator,2026-04-07,Geelong,7.0,False,True,Noah Williams
+USE00164,JOB0006,GR001,Grader 12M,2026-04-07,Geelong,8.0,False,True,Thomas Brown
+USE00152,JOB0006,LD002,Loader 4m,2026-04-07,Geelong,8.0,False,True,Jack Smith
+USE00286,JOB0009,BC001,Bobcat+8T Tipper,2026-04-07,Dandenong,7.0,False,True,Lachlan Martin
+USE00258,JOB0009,CP001,Compactor 815F,2026-04-07,Dandenong,8.5,False,True,Henry Johnson
+USE00272,JOB0009,GR001,Grader 12M,2026-04-07,Dandenong,9.0,False,True,Thomas Brown
+USE00300,JOB0009,LD001,Loader 3m,2026-04-07,Dandenong,7.5,False,False,Noah Williams
+USE00314,JOB0009,LD002,Loader 4m,2026-04-07,Dandenong,10.0,True,True,Jack Smith
+USE00360,JOB0011,DT001,Dump Truck 30T,2026-04-07,Campbellfield,10.5,False,True,Oliver Taylor
+USE00374,JOB0011,EX001,13T Excavator,2026-04-07,Campbellfield,9.5,False,True,Noah Williams
+USE00367,JOB0011,LD001,Loader 3m,2026-04-07,Campbellfield,7.5,False,True,Noah Williams
+USE00504,JOB0016,CP001,Compactor 815F,2026-04-07,Epping,7.5,False,True,Henry Johnson
+USE00500,JOB0016,EX001,13T Excavator,2026-04-07,Epping,10.5,False,True,Noah Williams
+USE00502,JOB0016,EX005,50T Excavator,2026-04-07,Epping,8.0,False,True,Lucas Wilson
+USE00588,JOB0018,CP001,Compactor 815F,2026-04-07,Broadmeadows,6.5,False,True,Henry Johnson
+USE00576,JOB0018,DT001,Dump Truck 30T,2026-04-07,Broadmeadows,8.5,False,True,Oliver Taylor
+USE00624,JOB0018,EX001,13T Excavator,2026-04-07,Broadmeadows,11.0,False,True,Noah Williams
+USE00600,JOB0018,EX002,20T Excavator,2026-04-07,Broadmeadows,9.5,False,True,Jack Smith
+USE00612,JOB0018,LD002,Loader 4m,2026-04-07,Broadmeadows,9.0,False,True,Jack Smith
+USE00856,JOB0027,CP001,Compactor 815F,2026-04-07,Pakenham,8.0,False,True,Henry Johnson
+USE00870,JOB0027,DZ001,Dozer D6,2026-04-07,Pakenham,9.5,False,True,William Jones
+USE00898,JOB0027,EX004,35T Excavator,2026-04-07,Pakenham,8.5,False,True,Thomas Brown
+USE00884,JOB0027,EX005,50T Excavator,2026-04-07,Pakenham,7.0,False,True,Lucas Wilson
+USE00924,JOB0028,DZ001,Dozer D6,2026-04-07,Melbourne North,9.0,False,True,William Jones
+USE00903,JOB0028,EX001,13T Excavator,2026-04-07,Melbourne North,8.5,False,True,Noah Williams
+USE00910,JOB0028,EX002,20T Excavator,2026-04-07,Melbourne North,8.5,False,True,Jack Smith
+USE00917,JOB0028,EX004,35T Excavator,2026-04-07,Melbourne North,10.0,False,True,Thomas Brown
+USE00083,JOB0004,BC001,Bobcat+8T Tipper,2026-04-08,Pakenham,12.0,False,True,Lachlan Martin
+USE00091,JOB0004,EX003,26T Excavator,2026-04-08,Pakenham,12.0,False,False,William Jones
+USE00087,JOB0004,EX005,50T Excavator,2026-04-08,Pakenham,9.0,False,False,Lucas Wilson
+USE00095,JOB0004,LD002,Loader 4m,2026-04-08,Pakenham,9.5,False,True,Jack Smith
+USE00159,JOB0006,CP001,Compactor 815F,2026-04-08,Geelong,10.0,False,True,Henry Johnson
+USE00147,JOB0006,EX001,13T Excavator,2026-04-08,Geelong,8.0,False,True,Noah Williams
+USE00165,JOB0006,GR001,Grader 12M,2026-04-08,Geelong,11.0,False,True,Thomas Brown
+USE00153,JOB0006,LD002,Loader 4m,2026-04-08,Geelong,10.5,False,True,Jack Smith
+USE00287,JOB0009,BC001,Bobcat+8T Tipper,2026-04-08,Dandenong,10.0,False,True,Lachlan Martin
+USE00259,JOB0009,CP001,Compactor 815F,2026-04-08,Dandenong,7.5,False,True,Henry Johnson
+USE00273,JOB0009,GR001,Grader 12M,2026-04-08,Dandenong,8.5,False,True,Thomas Brown
+USE00301,JOB0009,LD001,Loader 3m,2026-04-08,Dandenong,10.5,False,True,Noah Williams
+USE00315,JOB0009,LD002,Loader 4m,2026-04-08,Dandenong,9.5,False,True,Jack Smith
+USE00361,JOB0011,DT001,Dump Truck 30T,2026-04-08,Campbellfield,11.5,False,True,Oliver Taylor
+USE00375,JOB0011,EX001,13T Excavator,2026-04-08,Campbellfield,9.0,False,True,Noah Williams
+USE00368,JOB0011,LD001,Loader 3m,2026-04-08,Campbellfield,7.5,False,True,Noah Williams
+USE00589,JOB0018,CP001,Compactor 815F,2026-04-08,Broadmeadows,9.5,False,True,Henry Johnson
+USE00577,JOB0018,DT001,Dump Truck 30T,2026-04-08,Broadmeadows,8.5,False,True,Oliver Taylor
+USE00625,JOB0018,EX001,13T Excavator,2026-04-08,Broadmeadows,10.0,False,True,Noah Williams
+USE00601,JOB0018,EX002,20T Excavator,2026-04-08,Broadmeadows,9.0,False,True,Jack Smith
+USE00613,JOB0018,LD002,Loader 4m,2026-04-08,Broadmeadows,9.5,False,True,Jack Smith
+USE00925,JOB0028,DZ001,Dozer D6,2026-04-08,Melbourne North,10.5,False,False,William Jones
+USE00904,JOB0028,EX001,13T Excavator,2026-04-08,Melbourne North,8.5,False,True,Noah Williams
+USE00911,JOB0028,EX002,20T Excavator,2026-04-08,Melbourne North,10.0,False,True,Jack Smith
+USE00918,JOB0028,EX004,35T Excavator,2026-04-08,Melbourne North,9.5,False,False,Thomas Brown
+USE00084,JOB0004,BC001,Bobcat+8T Tipper,2026-04-09,Pakenham,9.0,False,True,Lachlan Martin
+USE00092,JOB0004,EX003,26T Excavator,2026-04-09,Pakenham,7.5,False,False,William Jones
+USE00088,JOB0004,EX005,50T Excavator,2026-04-09,Pakenham,8.5,False,False,Lucas Wilson
+USE00096,JOB0004,LD002,Loader 4m,2026-04-09,Pakenham,9.0,False,True,Jack Smith
+USE00288,JOB0009,BC001,Bobcat+8T Tipper,2026-04-09,Dandenong,10.5,False,True,Lachlan Martin
+USE00260,JOB0009,CP001,Compactor 815F,2026-04-09,Dandenong,8.5,False,True,Henry Johnson
+USE00274,JOB0009,GR001,Grader 12M,2026-04-09,Dandenong,7.0,False,False,Thomas Brown
+USE00302,JOB0009,LD001,Loader 3m,2026-04-09,Dandenong,8.0,False,True,Noah Williams
+USE00316,JOB0009,LD002,Loader 4m,2026-04-09,Dandenong,7.5,False,True,Jack Smith
+USE00362,JOB0011,DT001,Dump Truck 30T,2026-04-09,Campbellfield,6.0,False,True,Oliver Taylor
+USE00376,JOB0011,EX001,13T Excavator,2026-04-09,Campbellfield,8.5,False,True,Noah Williams
+USE00369,JOB0011,LD001,Loader 3m,2026-04-09,Campbellfield,8.5,True,True,Noah Williams
+USE00590,JOB0018,CP001,Compactor 815F,2026-04-09,Broadmeadows,11.0,False,True,Henry Johnson
+USE00578,JOB0018,DT001,Dump Truck 30T,2026-04-09,Broadmeadows,8.5,False,True,Oliver Taylor
+USE00626,JOB0018,EX001,13T Excavator,2026-04-09,Broadmeadows,9.5,False,True,Noah Williams
+USE00602,JOB0018,EX002,20T Excavator,2026-04-09,Broadmeadows,9.5,False,True,Jack Smith
+USE00614,JOB0018,LD002,Loader 4m,2026-04-09,Broadmeadows,9.0,False,True,Jack Smith
+USE00926,JOB0028,DZ001,Dozer D6,2026-04-09,Melbourne North,6.0,False,False,William Jones
+USE00905,JOB0028,EX001,13T Excavator,2026-04-09,Melbourne North,6.0,False,True,Noah Williams
+USE00912,JOB0028,EX002,20T Excavator,2026-04-09,Melbourne North,10.5,False,True,Jack Smith
+USE00919,JOB0028,EX004,35T Excavator,2026-04-09,Melbourne North,11.5,False,False,Thomas Brown
+USE00085,JOB0004,BC001,Bobcat+8T Tipper,2026-04-10,Pakenham,8.0,False,True,Lachlan Martin
+USE00093,JOB0004,EX003,26T Excavator,2026-04-10,Pakenham,10.0,False,False,William Jones
+USE00089,JOB0004,EX005,50T Excavator,2026-04-10,Pakenham,11.0,False,False,Lucas Wilson
+USE00097,JOB0004,LD002,Loader 4m,2026-04-10,Pakenham,9.5,False,True,Jack Smith
+USE00289,JOB0009,BC001,Bobcat+8T Tipper,2026-04-10,Dandenong,10.0,False,True,Lachlan Martin
+USE00261,JOB0009,CP001,Compactor 815F,2026-04-10,Dandenong,10.0,False,True,Henry Johnson
+USE00275,JOB0009,GR001,Grader 12M,2026-04-10,Dandenong,7.5,False,False,Thomas Brown
+USE00303,JOB0009,LD001,Loader 3m,2026-04-10,Dandenong,9.0,False,True,Noah Williams
+USE00317,JOB0009,LD002,Loader 4m,2026-04-10,Dandenong,12.0,False,True,Jack Smith
+USE00363,JOB0011,DT001,Dump Truck 30T,2026-04-10,Campbellfield,8.5,False,True,Oliver Taylor
+USE00377,JOB0011,EX001,13T Excavator,2026-04-10,Campbellfield,8.5,False,True,Noah Williams
+USE00370,JOB0011,LD001,Loader 3m,2026-04-10,Campbellfield,8.0,False,True,Noah Williams
+USE00591,JOB0018,CP001,Compactor 815F,2026-04-10,Broadmeadows,10.5,False,True,Henry Johnson
+USE00579,JOB0018,DT001,Dump Truck 30T,2026-04-10,Broadmeadows,7.5,False,True,Oliver Taylor
+USE00627,JOB0018,EX001,13T Excavator,2026-04-10,Broadmeadows,10.5,False,True,Noah Williams
+USE00603,JOB0018,EX002,20T Excavator,2026-04-10,Broadmeadows,7.5,False,True,Jack Smith
+USE00615,JOB0018,LD002,Loader 4m,2026-04-10,Broadmeadows,11.0,True,True,Jack Smith
+USE00290,JOB0009,BC001,Bobcat+8T Tipper,2026-04-11,Dandenong,10.5,False,False,Lachlan Martin
+USE00262,JOB0009,CP001,Compactor 815F,2026-04-11,Dandenong,8.0,False,True,Henry Johnson
+USE00276,JOB0009,GR001,Grader 12M,2026-04-11,Dandenong,9.0,False,False,Thomas Brown
+USE00304,JOB0009,LD001,Loader 3m,2026-04-11,Dandenong,9.5,False,True,Noah Williams
+USE00318,JOB0009,LD002,Loader 4m,2026-04-11,Dandenong,8.5,False,True,Jack Smith
+USE00364,JOB0011,DT001,Dump Truck 30T,2026-04-11,Campbellfield,10.0,False,True,Oliver Taylor
+USE00378,JOB0011,EX001,13T Excavator,2026-04-11,Campbellfield,9.5,True,True,Noah Williams
+USE00371,JOB0011,LD001,Loader 3m,2026-04-11,Campbellfield,7.5,False,True,Noah Williams
+USE00592,JOB0018,CP001,Compactor 815F,2026-04-11,Broadmeadows,9.5,False,True,Henry Johnson
+USE00580,JOB0018,DT001,Dump Truck 30T,2026-04-11,Broadmeadows,10.5,False,True,Oliver Taylor
+USE00628,JOB0018,EX001,13T Excavator,2026-04-11,Broadmeadows,11.5,True,True,Noah Williams
+USE00604,JOB0018,EX002,20T Excavator,2026-04-11,Broadmeadows,8.5,False,False,Jack Smith
+USE00616,JOB0018,LD002,Loader 4m,2026-04-11,Broadmeadows,7.0,False,True,Jack Smith
+USE00291,JOB0009,BC001,Bobcat+8T Tipper,2026-04-13,Dandenong,8.5,False,False,Lachlan Martin
+USE00263,JOB0009,CP001,Compactor 815F,2026-04-13,Dandenong,8.5,True,True,Henry Johnson
+USE00277,JOB0009,GR001,Grader 12M,2026-04-13,Dandenong,9.0,False,False,Thomas Brown
+USE00305,JOB0009,LD001,Loader 3m,2026-04-13,Dandenong,6.5,False,True,Noah Williams
+USE00319,JOB0009,LD002,Loader 4m,2026-04-13,Dandenong,8.5,True,True,Jack Smith
+USE00365,JOB0011,DT001,Dump Truck 30T,2026-04-13,Campbellfield,9.0,False,True,Oliver Taylor
+USE00379,JOB0011,EX001,13T Excavator,2026-04-13,Campbellfield,9.5,False,True,Noah Williams
+USE00372,JOB0011,LD001,Loader 3m,2026-04-13,Campbellfield,10.5,False,True,Noah Williams
+USE00593,JOB0018,CP001,Compactor 815F,2026-04-13,Broadmeadows,10.5,False,True,Henry Johnson
+USE00581,JOB0018,DT001,Dump Truck 30T,2026-04-13,Broadmeadows,7.0,False,True,Oliver Taylor
+USE00629,JOB0018,EX001,13T Excavator,2026-04-13,Broadmeadows,11.5,False,True,Noah Williams
+USE00605,JOB0018,EX002,20T Excavator,2026-04-13,Broadmeadows,8.5,True,False,Jack Smith
+USE00617,JOB0018,LD002,Loader 4m,2026-04-13,Broadmeadows,8.5,False,True,Jack Smith
+USE00366,JOB0011,DT001,Dump Truck 30T,2026-04-14,Campbellfield,8.5,False,True,Oliver Taylor
+USE00380,JOB0011,EX001,13T Excavator,2026-04-14,Campbellfield,8.5,False,True,Noah Williams
+USE00373,JOB0011,LD001,Loader 3m,2026-04-14,Campbellfield,10.0,False,False,Noah Williams
+USE00429,JOB0013,DZ001,Dozer D6,2026-04-14,Dandenong,8.5,True,True,William Jones
+USE00432,JOB0013,EX003,26T Excavator,2026-04-14,Dandenong,12.0,False,True,William Jones
+USE00594,JOB0018,CP001,Compactor 815F,2026-04-14,Broadmeadows,10.0,False,False,Henry Johnson
+USE00582,JOB0018,DT001,Dump Truck 30T,2026-04-14,Broadmeadows,9.0,False,True,Oliver Taylor
+USE00630,JOB0018,EX001,13T Excavator,2026-04-14,Broadmeadows,11.5,False,True,Noah Williams
+USE00606,JOB0018,EX002,20T Excavator,2026-04-14,Broadmeadows,10.0,False,False,Jack Smith
+USE00618,JOB0018,LD002,Loader 4m,2026-04-14,Broadmeadows,8.5,False,False,Jack Smith
+USE00430,JOB0013,DZ001,Dozer D6,2026-04-15,Dandenong,9.0,False,False,William Jones
+USE00433,JOB0013,EX003,26T Excavator,2026-04-15,Dandenong,8.5,False,False,William Jones
+USE00467,JOB0014,DT001,Dump Truck 30T,2026-04-15,Campbellfield,8.5,False,True,Oliver Taylor
+USE00459,JOB0014,DZ001,Dozer D6,2026-04-15,Campbellfield,9.5,False,True,William Jones
+USE00435,JOB0014,EX004,35T Excavator,2026-04-15,Campbellfield,9.5,False,True,Thomas Brown
+USE00451,JOB0014,EX005,50T Excavator,2026-04-15,Campbellfield,8.0,True,True,Lucas Wilson
+USE00443,JOB0014,GR001,Grader 12M,2026-04-15,Campbellfield,9.0,False,True,Thomas Brown
+USE00595,JOB0018,CP001,Compactor 815F,2026-04-15,Broadmeadows,11.5,False,False,Henry Johnson
+USE00583,JOB0018,DT001,Dump Truck 30T,2026-04-15,Broadmeadows,9.5,False,True,Oliver Taylor
+USE00631,JOB0018,EX001,13T Excavator,2026-04-15,Broadmeadows,8.0,False,False,Noah Williams
+USE00607,JOB0018,EX002,20T Excavator,2026-04-15,Broadmeadows,11.0,True,False,Jack Smith
+USE00619,JOB0018,LD002,Loader 4m,2026-04-15,Broadmeadows,9.5,False,False,Jack Smith
+USE00431,JOB0013,DZ001,Dozer D6,2026-04-16,Dandenong,7.5,False,True,William Jones
+USE00434,JOB0013,EX003,26T Excavator,2026-04-16,Dandenong,8.5,False,False,William Jones
+USE00468,JOB0014,DT001,Dump Truck 30T,2026-04-16,Campbellfield,9.5,False,True,Oliver Taylor
+USE00460,JOB0014,DZ001,Dozer D6,2026-04-16,Campbellfield,8.0,False,True,William Jones
+USE00436,JOB0014,EX004,35T Excavator,2026-04-16,Campbellfield,9.5,False,False,Thomas Brown
+USE00452,JOB0014,EX005,50T Excavator,2026-04-16,Campbellfield,11.0,True,False,Lucas Wilson
+USE00444,JOB0014,GR001,Grader 12M,2026-04-16,Campbellfield,9.0,False,False,Thomas Brown
+USE00596,JOB0018,CP001,Compactor 815F,2026-04-16,Broadmeadows,8.0,False,False,Henry Johnson
+USE00584,JOB0018,DT001,Dump Truck 30T,2026-04-16,Broadmeadows,9.5,False,True,Oliver Taylor
+USE00632,JOB0018,EX001,13T Excavator,2026-04-16,Broadmeadows,7.5,True,False,Noah Williams
+USE00608,JOB0018,EX002,20T Excavator,2026-04-16,Broadmeadows,8.0,False,False,Jack Smith
+USE00620,JOB0018,LD002,Loader 4m,2026-04-16,Broadmeadows,8.0,False,False,Jack Smith
+USE00190,JOB0008,EX001,13T Excavator,2026-04-17,Epping,7.5,False,True,Noah Williams
+USE00202,JOB0008,EX003,26T Excavator,2026-04-17,Epping,8.5,False,True,William Jones
+USE00226,JOB0008,EX004,35T Excavator,2026-04-17,Epping,7.5,False,True,Thomas Brown
+USE00238,JOB0008,EX005,50T Excavator,2026-04-17,Epping,7.0,False,True,Lucas Wilson
+USE00214,JOB0008,LD001,Loader 3m,2026-04-17,Epping,9.0,False,True,Noah Williams
+USE00469,JOB0014,DT001,Dump Truck 30T,2026-04-17,Campbellfield,9.0,True,True,Oliver Taylor
+USE00461,JOB0014,DZ001,Dozer D6,2026-04-17,Campbellfield,10.0,True,False,William Jones
+USE00437,JOB0014,EX004,35T Excavator,2026-04-17,Campbellfield,8.5,False,True,Thomas Brown
+USE00453,JOB0014,EX005,50T Excavator,2026-04-17,Campbellfield,8.0,True,True,Lucas Wilson
+USE00445,JOB0014,GR001,Grader 12M,2026-04-17,Campbellfield,9.5,False,False,Thomas Brown
+USE00597,JOB0018,CP001,Compactor 815F,2026-04-17,Broadmeadows,10.0,False,False,Henry Johnson
+USE00585,JOB0018,DT001,Dump Truck 30T,2026-04-17,Broadmeadows,10.0,False,True,Oliver Taylor
+USE00633,JOB0018,EX001,13T Excavator,2026-04-17,Broadmeadows,9.0,False,True,Noah Williams
+USE00609,JOB0018,EX002,20T Excavator,2026-04-17,Broadmeadows,8.0,True,False,Jack Smith
+USE00621,JOB0018,LD002,Loader 4m,2026-04-17,Broadmeadows,10.0,False,False,Jack Smith
+USE00191,JOB0008,EX001,13T Excavator,2026-04-18,Epping,8.5,False,True,Noah Williams
+USE00203,JOB0008,EX003,26T Excavator,2026-04-18,Epping,10.0,False,False,William Jones
+USE00227,JOB0008,EX004,35T Excavator,2026-04-18,Epping,10.0,False,True,Thomas Brown
+USE00239,JOB0008,EX005,50T Excavator,2026-04-18,Epping,7.0,False,True,Lucas Wilson
+USE00215,JOB0008,LD001,Loader 3m,2026-04-18,Epping,8.5,False,False,Noah Williams
+USE00470,JOB0014,DT001,Dump Truck 30T,2026-04-18,Campbellfield,10.0,False,True,Oliver Taylor
+USE00462,JOB0014,DZ001,Dozer D6,2026-04-18,Campbellfield,9.5,False,False,William Jones
+USE00438,JOB0014,EX004,35T Excavator,2026-04-18,Campbellfield,7.5,False,True,Thomas Brown
+USE00454,JOB0014,EX005,50T Excavator,2026-04-18,Campbellfield,9.5,False,True,Lucas Wilson
+USE00446,JOB0014,GR001,Grader 12M,2026-04-18,Campbellfield,11.0,False,False,Thomas Brown
+USE00598,JOB0018,CP001,Compactor 815F,2026-04-18,Broadmeadows,9.5,True,False,Henry Johnson
+USE00586,JOB0018,DT001,Dump Truck 30T,2026-04-18,Broadmeadows,9.5,False,True,Oliver Taylor
+USE00634,JOB0018,EX001,13T Excavator,2026-04-18,Broadmeadows,12.0,True,True,Noah Williams
+USE00610,JOB0018,EX002,20T Excavator,2026-04-18,Broadmeadows,9.5,False,False,Jack Smith
+USE00622,JOB0018,LD002,Loader 4m,2026-04-18,Broadmeadows,9.5,False,False,Jack Smith
+USE00052,JOB0002,CP001,Compactor 815F,2026-04-20,Geelong,12.0,False,True,Henry Johnson
+USE00034,JOB0002,DT001,Dump Truck 30T,2026-04-20,Geelong,9.5,False,True,Oliver Taylor
+USE00061,JOB0002,EX001,13T Excavator,2026-04-20,Geelong,10.0,False,True,Noah Williams
+USE00025,JOB0002,EX002,20T Excavator,2026-04-20,Geelong,10.0,False,True,Jack Smith
+USE00043,JOB0002,LD002,Loader 4m,2026-04-20,Geelong,7.5,False,True,Jack Smith
+USE00192,JOB0008,EX001,13T Excavator,2026-04-20,Epping,9.5,False,True,Noah Williams
+USE00204,JOB0008,EX003,26T Excavator,2026-04-20,Epping,8.0,False,False,William Jones
+USE00228,JOB0008,EX004,35T Excavator,2026-04-20,Epping,7.5,False,True,Thomas Brown
+USE00240,JOB0008,EX005,50T Excavator,2026-04-20,Epping,8.5,False,True,Lucas Wilson
+USE00216,JOB0008,LD001,Loader 3m,2026-04-20,Epping,9.5,False,False,Noah Williams
+USE00471,JOB0014,DT001,Dump Truck 30T,2026-04-20,Campbellfield,8.0,False,True,Oliver Taylor
+USE00463,JOB0014,DZ001,Dozer D6,2026-04-20,Campbellfield,10.0,False,False,William Jones
+USE00439,JOB0014,EX004,35T Excavator,2026-04-20,Campbellfield,10.5,False,True,Thomas Brown
+USE00455,JOB0014,EX005,50T Excavator,2026-04-20,Campbellfield,7.0,False,True,Lucas Wilson
+USE00447,JOB0014,GR001,Grader 12M,2026-04-20,Campbellfield,9.5,True,False,Thomas Brown
+USE00053,JOB0002,CP001,Compactor 815F,2026-04-21,Geelong,11.5,False,False,Henry Johnson
+USE00035,JOB0002,DT001,Dump Truck 30T,2026-04-21,Geelong,9.5,False,True,Oliver Taylor
+USE00062,JOB0002,EX001,13T Excavator,2026-04-21,Geelong,10.5,False,True,Noah Williams
+USE00026,JOB0002,EX002,20T Excavator,2026-04-21,Geelong,9.5,False,False,Jack Smith
+USE00044,JOB0002,LD002,Loader 4m,2026-04-21,Geelong,10.0,False,False,Jack Smith
+USE00193,JOB0008,EX001,13T Excavator,2026-04-21,Epping,6.0,False,True,Noah Williams
+USE00205,JOB0008,EX003,26T Excavator,2026-04-21,Epping,9.5,True,False,William Jones
+USE00229,JOB0008,EX004,35T Excavator,2026-04-21,Epping,10.5,False,True,Thomas Brown
+USE00241,JOB0008,EX005,50T Excavator,2026-04-21,Epping,9.0,False,True,Lucas Wilson
+USE00217,JOB0008,LD001,Loader 3m,2026-04-21,Epping,9.5,False,False,Noah Williams
+USE00472,JOB0014,DT001,Dump Truck 30T,2026-04-21,Campbellfield,8.0,False,True,Oliver Taylor
+USE00464,JOB0014,DZ001,Dozer D6,2026-04-21,Campbellfield,8.5,False,False,William Jones
+USE00440,JOB0014,EX004,35T Excavator,2026-04-21,Campbellfield,8.0,False,True,Thomas Brown
+USE00456,JOB0014,EX005,50T Excavator,2026-04-21,Campbellfield,10.0,False,True,Lucas Wilson
+USE00448,JOB0014,GR001,Grader 12M,2026-04-21,Campbellfield,12.0,False,False,Thomas Brown
+USE00054,JOB0002,CP001,Compactor 815F,2026-04-22,Geelong,9.5,False,False,Henry Johnson
+USE00036,JOB0002,DT001,Dump Truck 30T,2026-04-22,Geelong,9.0,False,True,Oliver Taylor
+USE00063,JOB0002,EX001,13T Excavator,2026-04-22,Geelong,8.0,False,True,Noah Williams
+USE00027,JOB0002,EX002,20T Excavator,2026-04-22,Geelong,8.0,False,False,Jack Smith
+USE00045,JOB0002,LD002,Loader 4m,2026-04-22,Geelong,7.5,False,False,Jack Smith
+USE00194,JOB0008,EX001,13T Excavator,2026-04-22,Epping,10.0,True,True,Noah Williams
+USE00206,JOB0008,EX003,26T Excavator,2026-04-22,Epping,10.5,False,False,William Jones
+USE00230,JOB0008,EX004,35T Excavator,2026-04-22,Epping,11.0,False,True,Thomas Brown
+USE00242,JOB0008,EX005,50T Excavator,2026-04-22,Epping,10.0,False,True,Lucas Wilson
+USE00218,JOB0008,LD001,Loader 3m,2026-04-22,Epping,10.0,False,False,Noah Williams
+USE00473,JOB0014,DT001,Dump Truck 30T,2026-04-22,Campbellfield,10.0,True,True,Oliver Taylor
+USE00465,JOB0014,DZ001,Dozer D6,2026-04-22,Campbellfield,7.5,False,False,William Jones
+USE00441,JOB0014,EX004,35T Excavator,2026-04-22,Campbellfield,11.0,False,True,Thomas Brown
+USE00457,JOB0014,EX005,50T Excavator,2026-04-22,Campbellfield,9.0,False,True,Lucas Wilson
+USE00449,JOB0014,GR001,Grader 12M,2026-04-22,Campbellfield,7.5,True,False,Thomas Brown
+USE00055,JOB0002,CP001,Compactor 815F,2026-04-23,Geelong,8.0,False,False,Henry Johnson
+USE00037,JOB0002,DT001,Dump Truck 30T,2026-04-23,Geelong,10.0,False,True,Oliver Taylor
+USE00064,JOB0002,EX001,13T Excavator,2026-04-23,Geelong,11.0,False,True,Noah Williams
+USE00028,JOB0002,EX002,20T Excavator,2026-04-23,Geelong,9.0,False,False,Jack Smith
+USE00046,JOB0002,LD002,Loader 4m,2026-04-23,Geelong,8.0,False,False,Jack Smith
+USE00195,JOB0008,EX001,13T Excavator,2026-04-23,Epping,9.5,False,True,Noah Williams
+USE00207,JOB0008,EX003,26T Excavator,2026-04-23,Epping,10.0,False,False,William Jones
+USE00231,JOB0008,EX004,35T Excavator,2026-04-23,Epping,10.5,False,True,Thomas Brown
+USE00243,JOB0008,EX005,50T Excavator,2026-04-23,Epping,7.5,False,True,Lucas Wilson
+USE00219,JOB0008,LD001,Loader 3m,2026-04-23,Epping,10.0,False,False,Noah Williams
+USE00474,JOB0014,DT001,Dump Truck 30T,2026-04-23,Campbellfield,10.0,False,True,Oliver Taylor
+USE00466,JOB0014,DZ001,Dozer D6,2026-04-23,Campbellfield,9.5,False,False,William Jones
+USE00442,JOB0014,EX004,35T Excavator,2026-04-23,Campbellfield,10.0,False,True,Thomas Brown
+USE00458,JOB0014,EX005,50T Excavator,2026-04-23,Campbellfield,9.0,False,True,Lucas Wilson
+USE00450,JOB0014,GR001,Grader 12M,2026-04-23,Campbellfield,11.5,False,False,Thomas Brown
+USE00056,JOB0002,CP001,Compactor 815F,2026-04-24,Geelong,9.5,False,False,Henry Johnson
+USE00038,JOB0002,DT001,Dump Truck 30T,2026-04-24,Geelong,9.5,False,True,Oliver Taylor
+USE00065,JOB0002,EX001,13T Excavator,2026-04-24,Geelong,9.5,False,True,Noah Williams
+USE00029,JOB0002,EX002,20T Excavator,2026-04-24,Geelong,10.0,False,False,Jack Smith
+USE00047,JOB0002,LD002,Loader 4m,2026-04-24,Geelong,7.0,True,False,Jack Smith
+USE00196,JOB0008,EX001,13T Excavator,2026-04-24,Epping,9.0,False,True,Noah Williams
+USE00208,JOB0008,EX003,26T Excavator,2026-04-24,Epping,7.0,False,False,William Jones
+USE00232,JOB0008,EX004,35T Excavator,2026-04-24,Epping,9.5,False,True,Thomas Brown
+USE00244,JOB0008,EX005,50T Excavator,2026-04-24,Epping,7.5,False,True,Lucas Wilson
+USE00220,JOB0008,LD001,Loader 3m,2026-04-24,Epping,8.0,False,False,Noah Williams
+USE00013,JOB0001,DZ001,Dozer D6,2026-04-25,Melbourne North,9.5,False,True,William Jones
+USE00001,JOB0001,LD001,Loader 3m,2026-04-25,Melbourne North,8.0,False,True,Noah Williams
+USE00057,JOB0002,CP001,Compactor 815F,2026-04-25,Geelong,8.0,False,False,Henry Johnson
+USE00039,JOB0002,DT001,Dump Truck 30T,2026-04-25,Geelong,10.0,False,False,Oliver Taylor
+USE00066,JOB0002,EX001,13T Excavator,2026-04-25,Geelong,10.5,False,True,Noah Williams
+USE00030,JOB0002,EX002,20T Excavator,2026-04-25,Geelong,10.5,True,False,Jack Smith
+USE00048,JOB0002,LD002,Loader 4m,2026-04-25,Geelong,10.0,False,False,Jack Smith
+USE00197,JOB0008,EX001,13T Excavator,2026-04-25,Epping,9.5,False,True,Noah Williams
+USE00209,JOB0008,EX003,26T Excavator,2026-04-25,Epping,7.5,False,False,William Jones
+USE00233,JOB0008,EX004,35T Excavator,2026-04-25,Epping,9.5,False,False,Thomas Brown
+USE00245,JOB0008,EX005,50T Excavator,2026-04-25,Epping,9.5,True,False,Lucas Wilson
+USE00221,JOB0008,LD001,Loader 3m,2026-04-25,Epping,8.5,False,True,Noah Williams
+USE00014,JOB0001,DZ001,Dozer D6,2026-04-27,Melbourne North,10.0,False,False,William Jones
+USE00002,JOB0001,LD001,Loader 3m,2026-04-27,Melbourne North,8.0,False,True,Noah Williams
+USE00058,JOB0002,CP001,Compactor 815F,2026-04-27,Geelong,9.0,False,False,Henry Johnson
+USE00040,JOB0002,DT001,Dump Truck 30T,2026-04-27,Geelong,7.5,False,False,Oliver Taylor
+USE00067,JOB0002,EX001,13T Excavator,2026-04-27,Geelong,9.5,False,True,Noah Williams
+USE00031,JOB0002,EX002,20T Excavator,2026-04-27,Geelong,9.5,False,False,Jack Smith
+USE00049,JOB0002,LD002,Loader 4m,2026-04-27,Geelong,8.5,False,False,Jack Smith
+USE00198,JOB0008,EX001,13T Excavator,2026-04-27,Epping,9.0,False,True,Noah Williams
+USE00210,JOB0008,EX003,26T Excavator,2026-04-27,Epping,8.0,False,False,William Jones
+USE00234,JOB0008,EX004,35T Excavator,2026-04-27,Epping,12.0,False,False,Thomas Brown
+USE00246,JOB0008,EX005,50T Excavator,2026-04-27,Epping,8.0,False,False,Lucas Wilson
+USE00222,JOB0008,LD001,Loader 3m,2026-04-27,Epping,9.5,True,True,Noah Williams
+USE00015,JOB0001,DZ001,Dozer D6,2026-04-28,Melbourne North,10.5,False,False,William Jones
+USE00003,JOB0001,LD001,Loader 3m,2026-04-28,Melbourne North,9.5,False,True,Noah Williams
+USE00059,JOB0002,CP001,Compactor 815F,2026-04-28,Geelong,10.0,False,False,Henry Johnson
+USE00041,JOB0002,DT001,Dump Truck 30T,2026-04-28,Geelong,10.0,False,False,Oliver Taylor
+USE00068,JOB0002,EX001,13T Excavator,2026-04-28,Geelong,6.0,False,True,Noah Williams
+USE00032,JOB0002,EX002,20T Excavator,2026-04-28,Geelong,7.5,False,False,Jack Smith
+USE00050,JOB0002,LD002,Loader 4m,2026-04-28,Geelong,6.0,False,False,Jack Smith
+USE00199,JOB0008,EX001,13T Excavator,2026-04-28,Epping,9.0,False,True,Noah Williams
+USE00211,JOB0008,EX003,26T Excavator,2026-04-28,Epping,6.0,False,False,William Jones
+USE00235,JOB0008,EX004,35T Excavator,2026-04-28,Epping,7.5,False,False,Thomas Brown
+USE00247,JOB0008,EX005,50T Excavator,2026-04-28,Epping,10.0,True,False,Lucas Wilson
+USE00223,JOB0008,LD001,Loader 3m,2026-04-28,Epping,7.5,False,True,Noah Williams
+USE00016,JOB0001,DZ001,Dozer D6,2026-04-29,Melbourne North,9.0,False,False,William Jones
+USE00004,JOB0001,LD001,Loader 3m,2026-04-29,Melbourne North,7.0,False,True,Noah Williams
+USE00060,JOB0002,CP001,Compactor 815F,2026-04-29,Geelong,11.0,False,False,Henry Johnson
+USE00042,JOB0002,DT001,Dump Truck 30T,2026-04-29,Geelong,8.0,False,False,Oliver Taylor
+USE00069,JOB0002,EX001,13T Excavator,2026-04-29,Geelong,8.0,False,True,Noah Williams
+USE00033,JOB0002,EX002,20T Excavator,2026-04-29,Geelong,7.5,False,False,Jack Smith
+USE00051,JOB0002,LD002,Loader 4m,2026-04-29,Geelong,11.0,False,False,Jack Smith
+USE00200,JOB0008,EX001,13T Excavator,2026-04-29,Epping,10.0,False,True,Noah Williams
+USE00212,JOB0008,EX003,26T Excavator,2026-04-29,Epping,11.0,False,False,William Jones
+USE00236,JOB0008,EX004,35T Excavator,2026-04-29,Epping,10.0,False,False,Thomas Brown
+USE00248,JOB0008,EX005,50T Excavator,2026-04-29,Epping,9.0,True,False,Lucas Wilson
+USE00224,JOB0008,LD001,Loader 3m,2026-04-29,Epping,9.5,False,True,Noah Williams
+USE00017,JOB0001,DZ001,Dozer D6,2026-04-30,Melbourne North,7.5,False,False,William Jones
+USE00005,JOB0001,LD001,Loader 3m,2026-04-30,Melbourne North,11.0,True,True,Noah Williams
+USE00201,JOB0008,EX001,13T Excavator,2026-04-30,Epping,10.5,False,False,Noah Williams
+USE00213,JOB0008,EX003,26T Excavator,2026-04-30,Epping,11.0,False,False,William Jones
+USE00237,JOB0008,EX004,35T Excavator,2026-04-30,Epping,10.0,False,False,Thomas Brown
+USE00249,JOB0008,EX005,50T Excavator,2026-04-30,Epping,9.0,False,False,Lucas Wilson
+USE00225,JOB0008,LD001,Loader 3m,2026-04-30,Epping,8.5,False,True,Noah Williams
+USE00018,JOB0001,DZ001,Dozer D6,2026-05-01,Melbourne North,7.5,False,False,William Jones
+USE00006,JOB0001,LD001,Loader 3m,2026-05-01,Melbourne North,9.5,False,True,Noah Williams
+USE00776,JOB0024,CP001,Compactor 815F,2026-05-01,Cranbourne,8.0,False,True,Henry Johnson
+USE00773,JOB0024,DZ001,Dozer D6,2026-05-01,Cranbourne,10.5,False,True,William Jones
+USE00782,JOB0024,EX002,20T Excavator,2026-05-01,Cranbourne,7.5,False,True,Jack Smith
+USE00779,JOB0024,EX005,50T Excavator,2026-05-01,Cranbourne,6.5,False,True,Lucas Wilson
+USE00019,JOB0001,DZ001,Dozer D6,2026-05-02,Melbourne North,6.5,False,True,William Jones
+USE00007,JOB0001,LD001,Loader 3m,2026-05-02,Melbourne North,10.5,False,False,Noah Williams
+USE00777,JOB0024,CP001,Compactor 815F,2026-05-02,Cranbourne,8.0,False,False,Henry Johnson
+USE00774,JOB0024,DZ001,Dozer D6,2026-05-02,Cranbourne,8.0,False,True,William Jones
+USE00783,JOB0024,EX002,20T Excavator,2026-05-02,Cranbourne,9.0,False,False,Jack Smith
+USE00780,JOB0024,EX005,50T Excavator,2026-05-02,Cranbourne,9.5,False,False,Lucas Wilson
+USE01344,JOB0039,DZ001,Dozer D6,2026-05-02,Dandenong,8.5,False,True,William Jones
+USE01327,JOB0039,GR001,Grader 12M,2026-05-02,Dandenong,9.5,False,True,Thomas Brown
+USE01310,JOB0039,LD001,Loader 3m,2026-05-02,Dandenong,9.0,False,True,Noah Williams
+USE01361,JOB0039,LD002,Loader 4m,2026-05-02,Dandenong,7.5,False,True,Jack Smith
+USE00020,JOB0001,DZ001,Dozer D6,2026-05-04,Melbourne North,10.0,False,True,William Jones
+USE00008,JOB0001,LD001,Loader 3m,2026-05-04,Melbourne North,10.0,False,True,Noah Williams
+USE00778,JOB0024,CP001,Compactor 815F,2026-05-04,Cranbourne,8.0,False,False,Henry Johnson
+USE00775,JOB0024,DZ001,Dozer D6,2026-05-04,Cranbourne,10.0,True,True,William Jones
+USE00784,JOB0024,EX002,20T Excavator,2026-05-04,Cranbourne,8.5,False,False,Jack Smith
+USE00781,JOB0024,EX005,50T Excavator,2026-05-04,Cranbourne,6.0,False,False,Lucas Wilson
+USE01345,JOB0039,DZ001,Dozer D6,2026-05-04,Dandenong,8.5,False,True,William Jones
+USE01328,JOB0039,GR001,Grader 12M,2026-05-04,Dandenong,8.5,False,False,Thomas Brown
+USE01311,JOB0039,LD001,Loader 3m,2026-05-04,Dandenong,10.0,False,True,Noah Williams
+USE01362,JOB0039,LD002,Loader 4m,2026-05-04,Dandenong,7.5,False,False,Jack Smith
+USE00021,JOB0001,DZ001,Dozer D6,2026-05-05,Melbourne North,11.5,False,True,William Jones
+USE00009,JOB0001,LD001,Loader 3m,2026-05-05,Melbourne North,8.5,False,True,Noah Williams
+USE01212,JOB0036,CP001,Compactor 815F,2026-05-05,Epping,8.5,False,True,Henry Johnson
+USE01199,JOB0036,EX002,20T Excavator,2026-05-05,Epping,8.5,False,True,Jack Smith
+USE01186,JOB0036,EX003,26T Excavator,2026-05-05,Epping,8.5,True,False,William Jones
+USE01173,JOB0036,EX004,35T Excavator,2026-05-05,Epping,7.5,False,False,Thomas Brown
+USE01346,JOB0039,DZ001,Dozer D6,2026-05-05,Dandenong,10.5,False,True,William Jones
+USE01329,JOB0039,GR001,Grader 12M,2026-05-05,Dandenong,6.5,False,False,Thomas Brown
+USE01312,JOB0039,LD001,Loader 3m,2026-05-05,Dandenong,10.0,False,True,Noah Williams
+USE01363,JOB0039,LD002,Loader 4m,2026-05-05,Dandenong,8.0,False,False,Jack Smith
+USE00022,JOB0001,DZ001,Dozer D6,2026-05-06,Melbourne North,10.0,True,True,William Jones
+USE00010,JOB0001,LD001,Loader 3m,2026-05-06,Melbourne North,10.5,False,True,Noah Williams
+USE01213,JOB0036,CP001,Compactor 815F,2026-05-06,Epping,8.5,False,False,Henry Johnson
+USE01200,JOB0036,EX002,20T Excavator,2026-05-06,Epping,9.0,False,False,Jack Smith
+USE01187,JOB0036,EX003,26T Excavator,2026-05-06,Epping,10.0,False,False,William Jones
+USE01174,JOB0036,EX004,35T Excavator,2026-05-06,Epping,8.5,False,False,Thomas Brown
+USE01347,JOB0039,DZ001,Dozer D6,2026-05-06,Dandenong,8.5,False,True,William Jones
+USE01330,JOB0039,GR001,Grader 12M,2026-05-06,Dandenong,6.0,True,False,Thomas Brown
+USE01313,JOB0039,LD001,Loader 3m,2026-05-06,Dandenong,8.5,False,True,Noah Williams
+USE01364,JOB0039,LD002,Loader 4m,2026-05-06,Dandenong,9.0,False,False,Jack Smith
+USE00023,JOB0001,DZ001,Dozer D6,2026-05-07,Melbourne North,11.0,False,True,William Jones
+USE00011,JOB0001,LD001,Loader 3m,2026-05-07,Melbourne North,10.0,False,True,Noah Williams
+USE01214,JOB0036,CP001,Compactor 815F,2026-05-07,Epping,11.0,False,False,Henry Johnson
+USE01201,JOB0036,EX002,20T Excavator,2026-05-07,Epping,7.5,False,False,Jack Smith
+USE01188,JOB0036,EX003,26T Excavator,2026-05-07,Epping,8.0,False,False,William Jones
+USE01175,JOB0036,EX004,35T Excavator,2026-05-07,Epping,9.5,False,False,Thomas Brown
+USE01348,JOB0039,DZ001,Dozer D6,2026-05-07,Dandenong,10.0,False,True,William Jones
+USE01331,JOB0039,GR001,Grader 12M,2026-05-07,Dandenong,8.0,False,False,Thomas Brown
+USE01314,JOB0039,LD001,Loader 3m,2026-05-07,Dandenong,9.0,True,True,Noah Williams
+USE01365,JOB0039,LD002,Loader 4m,2026-05-07,Dandenong,8.5,True,False,Jack Smith
+USE00024,JOB0001,DZ001,Dozer D6,2026-05-08,Melbourne North,10.0,False,True,William Jones
+USE00012,JOB0001,LD001,Loader 3m,2026-05-08,Melbourne North,9.5,True,True,Noah Williams
+USE01215,JOB0036,CP001,Compactor 815F,2026-05-08,Epping,10.5,False,False,Henry Johnson
+USE01202,JOB0036,EX002,20T Excavator,2026-05-08,Epping,9.5,False,False,Jack Smith
+USE01189,JOB0036,EX003,26T Excavator,2026-05-08,Epping,9.0,False,False,William Jones
+USE01176,JOB0036,EX004,35T Excavator,2026-05-08,Epping,8.0,False,False,Thomas Brown
+USE01349,JOB0039,DZ001,Dozer D6,2026-05-08,Dandenong,9.0,False,True,William Jones
+USE01332,JOB0039,GR001,Grader 12M,2026-05-08,Dandenong,10.5,False,False,Thomas Brown
+USE01315,JOB0039,LD001,Loader 3m,2026-05-08,Dandenong,8.5,False,True,Noah Williams
+USE01366,JOB0039,LD002,Loader 4m,2026-05-08,Dandenong,7.0,False,False,Jack Smith
+USE01216,JOB0036,CP001,Compactor 815F,2026-05-09,Epping,9.0,False,False,Henry Johnson
+USE01203,JOB0036,EX002,20T Excavator,2026-05-09,Epping,7.5,False,False,Jack Smith
+USE01190,JOB0036,EX003,26T Excavator,2026-05-09,Epping,9.0,False,False,William Jones
+USE01177,JOB0036,EX004,35T Excavator,2026-05-09,Epping,8.5,False,False,Thomas Brown
+USE01350,JOB0039,DZ001,Dozer D6,2026-05-09,Dandenong,9.5,False,False,William Jones
+USE01333,JOB0039,GR001,Grader 12M,2026-05-09,Dandenong,7.5,False,False,Thomas Brown
+USE01316,JOB0039,LD001,Loader 3m,2026-05-09,Dandenong,9.0,False,False,Noah Williams
+USE01367,JOB0039,LD002,Loader 4m,2026-05-09,Dandenong,10.5,False,False,Jack Smith
+USE01137,JOB0035,DT001,Dump Truck 30T,2026-05-11,Broadmeadows,8.0,False,True,Oliver Taylor
+USE01161,JOB0035,EX001,13T Excavator,2026-05-11,Broadmeadows,7.5,False,True,Noah Williams
+USE01149,JOB0035,LD001,Loader 3m,2026-05-11,Broadmeadows,9.0,False,True,Noah Williams
+USE01217,JOB0036,CP001,Compactor 815F,2026-05-11,Epping,9.5,False,False,Henry Johnson
+USE01204,JOB0036,EX002,20T Excavator,2026-05-11,Epping,9.0,False,False,Jack Smith
+USE01191,JOB0036,EX003,26T Excavator,2026-05-11,Epping,9.0,False,False,William Jones
+USE01178,JOB0036,EX004,35T Excavator,2026-05-11,Epping,7.0,False,False,Thomas Brown
+USE01351,JOB0039,DZ001,Dozer D6,2026-05-11,Dandenong,10.0,False,False,William Jones
+USE01334,JOB0039,GR001,Grader 12M,2026-05-11,Dandenong,6.0,False,False,Thomas Brown
+USE01317,JOB0039,LD001,Loader 3m,2026-05-11,Dandenong,9.5,False,True,Noah Williams
+USE01368,JOB0039,LD002,Loader 4m,2026-05-11,Dandenong,9.5,False,False,Jack Smith
+USE01138,JOB0035,DT001,Dump Truck 30T,2026-05-12,Broadmeadows,10.0,False,False,Oliver Taylor
+USE01162,JOB0035,EX001,13T Excavator,2026-05-12,Broadmeadows,10.0,False,False,Noah Williams
+USE01150,JOB0035,LD001,Loader 3m,2026-05-12,Broadmeadows,7.5,False,True,Noah Williams
+USE01218,JOB0036,CP001,Compactor 815F,2026-05-12,Epping,10.0,False,False,Henry Johnson
+USE01205,JOB0036,EX002,20T Excavator,2026-05-12,Epping,10.0,True,False,Jack Smith
+USE01192,JOB0036,EX003,26T Excavator,2026-05-12,Epping,9.5,False,False,William Jones
+USE01179,JOB0036,EX004,35T Excavator,2026-05-12,Epping,8.5,True,False,Thomas Brown
+USE01352,JOB0039,DZ001,Dozer D6,2026-05-12,Dandenong,6.0,False,False,William Jones
+USE01335,JOB0039,GR001,Grader 12M,2026-05-12,Dandenong,8.0,False,False,Thomas Brown
+USE01318,JOB0039,LD001,Loader 3m,2026-05-12,Dandenong,8.5,False,True,Noah Williams
+USE01369,JOB0039,LD002,Loader 4m,2026-05-12,Dandenong,9.0,False,False,Jack Smith
+USE01139,JOB0035,DT001,Dump Truck 30T,2026-05-13,Broadmeadows,7.5,False,False,Oliver Taylor
+USE01163,JOB0035,EX001,13T Excavator,2026-05-13,Broadmeadows,9.0,False,False,Noah Williams
+USE01151,JOB0035,LD001,Loader 3m,2026-05-13,Broadmeadows,8.5,False,True,Noah Williams
+USE01219,JOB0036,CP001,Compactor 815F,2026-05-13,Epping,7.5,False,False,Henry Johnson
+USE01206,JOB0036,EX002,20T Excavator,2026-05-13,Epping,8.5,False,False,Jack Smith
+USE01193,JOB0036,EX003,26T Excavator,2026-05-13,Epping,8.5,False,False,William Jones
+USE01180,JOB0036,EX004,35T Excavator,2026-05-13,Epping,10.0,False,False,Thomas Brown
+USE01353,JOB0039,DZ001,Dozer D6,2026-05-13,Dandenong,9.5,False,False,William Jones
+USE01336,JOB0039,GR001,Grader 12M,2026-05-13,Dandenong,9.5,True,False,Thomas Brown
+USE01319,JOB0039,LD001,Loader 3m,2026-05-13,Dandenong,8.0,True,True,Noah Williams
+USE01370,JOB0039,LD002,Loader 4m,2026-05-13,Dandenong,10.5,False,False,Jack Smith
+USE01140,JOB0035,DT001,Dump Truck 30T,2026-05-14,Broadmeadows,9.0,False,False,Oliver Taylor
+USE01164,JOB0035,EX001,13T Excavator,2026-05-14,Broadmeadows,9.0,False,False,Noah Williams
+USE01152,JOB0035,LD001,Loader 3m,2026-05-14,Broadmeadows,10.0,False,True,Noah Williams
+USE01220,JOB0036,CP001,Compactor 815F,2026-05-14,Epping,8.5,True,False,Henry Johnson
+USE01207,JOB0036,EX002,20T Excavator,2026-05-14,Epping,9.0,False,False,Jack Smith
+USE01194,JOB0036,EX003,26T Excavator,2026-05-14,Epping,7.5,False,False,William Jones
+USE01181,JOB0036,EX004,35T Excavator,2026-05-14,Epping,9.5,False,False,Thomas Brown
+USE01354,JOB0039,DZ001,Dozer D6,2026-05-14,Dandenong,7.5,False,False,William Jones
+USE01337,JOB0039,GR001,Grader 12M,2026-05-14,Dandenong,7.5,True,False,Thomas Brown
+USE01320,JOB0039,LD001,Loader 3m,2026-05-14,Dandenong,9.0,False,True,Noah Williams
+USE01371,JOB0039,LD002,Loader 4m,2026-05-14,Dandenong,12.0,False,False,Jack Smith
+USE01141,JOB0035,DT001,Dump Truck 30T,2026-05-15,Broadmeadows,9.0,False,False,Oliver Taylor
+USE01165,JOB0035,EX001,13T Excavator,2026-05-15,Broadmeadows,9.5,False,False,Noah Williams
+USE01153,JOB0035,LD001,Loader 3m,2026-05-15,Broadmeadows,12.0,False,True,Noah Williams
+USE01221,JOB0036,CP001,Compactor 815F,2026-05-15,Epping,10.5,False,False,Henry Johnson
+USE01208,JOB0036,EX002,20T Excavator,2026-05-15,Epping,10.5,False,False,Jack Smith
+USE01195,JOB0036,EX003,26T Excavator,2026-05-15,Epping,7.0,True,False,William Jones
+USE01182,JOB0036,EX004,35T Excavator,2026-05-15,Epping,9.5,False,False,Thomas Brown
+USE01355,JOB0039,DZ001,Dozer D6,2026-05-15,Dandenong,10.5,False,False,William Jones
+USE01338,JOB0039,GR001,Grader 12M,2026-05-15,Dandenong,10.5,False,False,Thomas Brown
+USE01321,JOB0039,LD001,Loader 3m,2026-05-15,Dandenong,8.0,False,True,Noah Williams
+USE01372,JOB0039,LD002,Loader 4m,2026-05-15,Dandenong,7.5,False,False,Jack Smith
+USE01017,JOB0031,EX001,13T Excavator,2026-05-16,Broadmeadows,8.0,False,False,Noah Williams
+USE01024,JOB0031,LD002,Loader 4m,2026-05-16,Broadmeadows,9.5,False,True,Jack Smith
+USE01142,JOB0035,DT001,Dump Truck 30T,2026-05-16,Broadmeadows,9.0,False,False,Oliver Taylor
+USE01166,JOB0035,EX001,13T Excavator,2026-05-16,Broadmeadows,7.5,False,False,Noah Williams
+USE01154,JOB0035,LD001,Loader 3m,2026-05-16,Broadmeadows,7.5,False,True,Noah Williams
+USE01222,JOB0036,CP001,Compactor 815F,2026-05-16,Epping,9.0,False,False,Henry Johnson
+USE01209,JOB0036,EX002,20T Excavator,2026-05-16,Epping,6.0,False,False,Jack Smith
+USE01196,JOB0036,EX003,26T Excavator,2026-05-16,Epping,6.0,False,False,William Jones
+USE01183,JOB0036,EX004,35T Excavator,2026-05-16,Epping,10.0,False,False,Thomas Brown
+USE01356,JOB0039,DZ001,Dozer D6,2026-05-16,Dandenong,11.0,False,False,William Jones
+USE01339,JOB0039,GR001,Grader 12M,2026-05-16,Dandenong,9.0,False,False,Thomas Brown
+USE01322,JOB0039,LD001,Loader 3m,2026-05-16,Dandenong,8.0,False,True,Noah Williams
+USE01373,JOB0039,LD002,Loader 4m,2026-05-16,Dandenong,8.0,False,True,Jack Smith
+USE01018,JOB0031,EX001,13T Excavator,2026-05-18,Broadmeadows,10.0,False,False,Noah Williams
+USE01025,JOB0031,LD002,Loader 4m,2026-05-18,Broadmeadows,7.5,False,True,Jack Smith
+USE01143,JOB0035,DT001,Dump Truck 30T,2026-05-18,Broadmeadows,9.0,False,False,Oliver Taylor
+USE01167,JOB0035,EX001,13T Excavator,2026-05-18,Broadmeadows,9.5,False,False,Noah Williams
+USE01155,JOB0035,LD001,Loader 3m,2026-05-18,Broadmeadows,8.5,True,True,Noah Williams
+USE01223,JOB0036,CP001,Compactor 815F,2026-05-18,Epping,10.0,False,False,Henry Johnson
+USE01210,JOB0036,EX002,20T Excavator,2026-05-18,Epping,9.0,True,False,Jack Smith
+USE01197,JOB0036,EX003,26T Excavator,2026-05-18,Epping,11.5,False,False,William Jones
+USE01184,JOB0036,EX004,35T Excavator,2026-05-18,Epping,11.0,False,False,Thomas Brown
+USE01357,JOB0039,DZ001,Dozer D6,2026-05-18,Dandenong,9.0,True,False,William Jones
+USE01340,JOB0039,GR001,Grader 12M,2026-05-18,Dandenong,11.0,False,False,Thomas Brown
+USE01323,JOB0039,LD001,Loader 3m,2026-05-18,Dandenong,8.0,False,True,Noah Williams
+USE01374,JOB0039,LD002,Loader 4m,2026-05-18,Dandenong,8.5,False,True,Jack Smith
+USE01019,JOB0031,EX001,13T Excavator,2026-05-19,Broadmeadows,9.0,False,False,Noah Williams
+USE01026,JOB0031,LD002,Loader 4m,2026-05-19,Broadmeadows,9.0,False,True,Jack Smith
+USE01144,JOB0035,DT001,Dump Truck 30T,2026-05-19,Broadmeadows,11.5,False,False,Oliver Taylor
+USE01168,JOB0035,EX001,13T Excavator,2026-05-19,Broadmeadows,9.0,False,False,Noah Williams
+USE01156,JOB0035,LD001,Loader 3m,2026-05-19,Broadmeadows,10.5,False,True,Noah Williams
+USE01224,JOB0036,CP001,Compactor 815F,2026-05-19,Epping,8.0,False,False,Henry Johnson
+USE01211,JOB0036,EX002,20T Excavator,2026-05-19,Epping,8.0,False,False,Jack Smith
+USE01198,JOB0036,EX003,26T Excavator,2026-05-19,Epping,8.5,False,False,William Jones
+USE01185,JOB0036,EX004,35T Excavator,2026-05-19,Epping,8.0,False,False,Thomas Brown
+USE01358,JOB0039,DZ001,Dozer D6,2026-05-19,Dandenong,8.0,False,False,William Jones
+USE01341,JOB0039,GR001,Grader 12M,2026-05-19,Dandenong,10.0,False,False,Thomas Brown
+USE01324,JOB0039,LD001,Loader 3m,2026-05-19,Dandenong,8.5,False,True,Noah Williams
+USE01375,JOB0039,LD002,Loader 4m,2026-05-19,Dandenong,10.0,False,True,Jack Smith
+USE01020,JOB0031,EX001,13T Excavator,2026-05-20,Broadmeadows,8.0,False,False,Noah Williams
+USE01027,JOB0031,LD002,Loader 4m,2026-05-20,Broadmeadows,10.0,True,True,Jack Smith
+USE01145,JOB0035,DT001,Dump Truck 30T,2026-05-20,Broadmeadows,9.5,False,False,Oliver Taylor
+USE01169,JOB0035,EX001,13T Excavator,2026-05-20,Broadmeadows,8.5,False,False,Noah Williams
+USE01157,JOB0035,LD001,Loader 3m,2026-05-20,Broadmeadows,9.0,False,True,Noah Williams
+USE01359,JOB0039,DZ001,Dozer D6,2026-05-20,Dandenong,9.5,False,False,William Jones
+USE01342,JOB0039,GR001,Grader 12M,2026-05-20,Dandenong,8.5,True,False,Thomas Brown
+USE01325,JOB0039,LD001,Loader 3m,2026-05-20,Dandenong,9.5,False,True,Noah Williams
+USE01376,JOB0039,LD002,Loader 4m,2026-05-20,Dandenong,8.5,False,True,Jack Smith
+USE01021,JOB0031,EX001,13T Excavator,2026-05-21,Broadmeadows,7.5,False,False,Noah Williams
+USE01028,JOB0031,LD002,Loader 4m,2026-05-21,Broadmeadows,9.0,False,True,Jack Smith
+USE01146,JOB0035,DT001,Dump Truck 30T,2026-05-21,Broadmeadows,9.0,False,False,Oliver Taylor
+USE01170,JOB0035,EX001,13T Excavator,2026-05-21,Broadmeadows,9.0,True,False,Noah Williams
+USE01158,JOB0035,LD001,Loader 3m,2026-05-21,Broadmeadows,9.5,False,True,Noah Williams
+USE01360,JOB0039,DZ001,Dozer D6,2026-05-21,Dandenong,7.5,False,False,William Jones
+USE01343,JOB0039,GR001,Grader 12M,2026-05-21,Dandenong,7.0,False,False,Thomas Brown
+USE01326,JOB0039,LD001,Loader 3m,2026-05-21,Dandenong,9.0,False,True,Noah Williams
+USE01377,JOB0039,LD002,Loader 4m,2026-05-21,Dandenong,12.0,False,True,Jack Smith
+USE01022,JOB0031,EX001,13T Excavator,2026-05-22,Broadmeadows,9.5,False,False,Noah Williams
+USE01029,JOB0031,LD002,Loader 4m,2026-05-22,Broadmeadows,7.5,False,True,Jack Smith
+USE01147,JOB0035,DT001,Dump Truck 30T,2026-05-22,Broadmeadows,9.5,False,False,Oliver Taylor
+USE01171,JOB0035,EX001,13T Excavator,2026-05-22,Broadmeadows,9.0,True,False,Noah Williams
+USE01159,JOB0035,LD001,Loader 3m,2026-05-22,Broadmeadows,7.5,False,True,Noah Williams
+USE01023,JOB0031,EX001,13T Excavator,2026-05-23,Broadmeadows,8.0,False,False,Noah Williams
+USE01030,JOB0031,LD002,Loader 4m,2026-05-23,Broadmeadows,8.0,False,False,Jack Smith
+USE01148,JOB0035,DT001,Dump Truck 30T,2026-05-23,Broadmeadows,9.0,False,False,Oliver Taylor
+USE01172,JOB0035,EX001,13T Excavator,2026-05-23,Broadmeadows,7.5,False,False,Noah Williams
+USE01160,JOB0035,LD001,Loader 3m,2026-05-23,Broadmeadows,9.0,False,False,Noah Williams
+USE01125,JOB0034,BC001,Bobcat+8T Tipper,2026-06-01,Geelong,10.0,False,True,Lachlan Martin
+USE01131,JOB0034,CP001,Compactor 815F,2026-06-01,Geelong,9.5,False,True,Henry Johnson
+USE01107,JOB0034,DZ001,Dozer D6,2026-06-01,Geelong,8.5,False,True,William Jones
+USE01119,JOB0034,EX002,20T Excavator,2026-06-01,Geelong,10.0,False,True,Jack Smith
+USE01113,JOB0034,EX004,35T Excavator,2026-06-01,Geelong,8.5,True,True,Thomas Brown
+USE01126,JOB0034,BC001,Bobcat+8T Tipper,2026-06-02,Geelong,9.5,False,False,Lachlan Martin
+USE01132,JOB0034,CP001,Compactor 815F,2026-06-02,Geelong,9.5,False,False,Henry Johnson
+USE01108,JOB0034,DZ001,Dozer D6,2026-06-02,Geelong,10.0,False,False,William Jones
+USE01120,JOB0034,EX002,20T Excavator,2026-06-02,Geelong,6.0,False,False,Jack Smith
+USE01114,JOB0034,EX004,35T Excavator,2026-06-02,Geelong,9.0,True,False,Thomas Brown
+USE01127,JOB0034,BC001,Bobcat+8T Tipper,2026-06-03,Geelong,7.5,False,False,Lachlan Martin
+USE01133,JOB0034,CP001,Compactor 815F,2026-06-03,Geelong,10.0,False,False,Henry Johnson
+USE01109,JOB0034,DZ001,Dozer D6,2026-06-03,Geelong,9.5,True,False,William Jones
+USE01121,JOB0034,EX002,20T Excavator,2026-06-03,Geelong,8.0,False,False,Jack Smith
+USE01115,JOB0034,EX004,35T Excavator,2026-06-03,Geelong,6.5,False,False,Thomas Brown
+USE01095,JOB0033,DT001,Dump Truck 30T,2026-06-04,Pakenham,9.0,False,True,Oliver Taylor
+USE01103,JOB0033,EX005,50T Excavator,2026-06-04,Pakenham,10.0,False,True,Lucas Wilson
+USE01099,JOB0033,GR001,Grader 12M,2026-06-04,Pakenham,8.0,False,True,Thomas Brown
+USE01128,JOB0034,BC001,Bobcat+8T Tipper,2026-06-04,Geelong,8.5,False,False,Lachlan Martin
+USE01134,JOB0034,CP001,Compactor 815F,2026-06-04,Geelong,10.5,False,False,Henry Johnson
+USE01110,JOB0034,DZ001,Dozer D6,2026-06-04,Geelong,9.0,False,False,William Jones
+USE01122,JOB0034,EX002,20T Excavator,2026-06-04,Geelong,9.0,False,False,Jack Smith
+USE01116,JOB0034,EX004,35T Excavator,2026-06-04,Geelong,10.5,False,False,Thomas Brown
+USE01096,JOB0033,DT001,Dump Truck 30T,2026-06-05,Pakenham,8.0,True,False,Oliver Taylor
+USE01104,JOB0033,EX005,50T Excavator,2026-06-05,Pakenham,10.5,False,False,Lucas Wilson
+USE01100,JOB0033,GR001,Grader 12M,2026-06-05,Pakenham,9.0,False,False,Thomas Brown
+USE01129,JOB0034,BC001,Bobcat+8T Tipper,2026-06-05,Geelong,7.5,False,False,Lachlan Martin
+USE01135,JOB0034,CP001,Compactor 815F,2026-06-05,Geelong,10.0,False,False,Henry Johnson
+USE01111,JOB0034,DZ001,Dozer D6,2026-06-05,Geelong,8.5,False,False,William Jones
+USE01123,JOB0034,EX002,20T Excavator,2026-06-05,Geelong,11.5,True,False,Jack Smith
+USE01117,JOB0034,EX004,35T Excavator,2026-06-05,Geelong,9.5,False,False,Thomas Brown
+USE01097,JOB0033,DT001,Dump Truck 30T,2026-06-06,Pakenham,7.0,False,False,Oliver Taylor
+USE01105,JOB0033,EX005,50T Excavator,2026-06-06,Pakenham,10.0,False,False,Lucas Wilson
+USE01101,JOB0033,GR001,Grader 12M,2026-06-06,Pakenham,8.0,False,False,Thomas Brown
+USE01130,JOB0034,BC001,Bobcat+8T Tipper,2026-06-06,Geelong,7.5,False,False,Lachlan Martin
+USE01136,JOB0034,CP001,Compactor 815F,2026-06-06,Geelong,8.0,False,False,Henry Johnson
+USE01112,JOB0034,DZ001,Dozer D6,2026-06-06,Geelong,9.0,False,False,William Jones
+USE01124,JOB0034,EX002,20T Excavator,2026-06-06,Geelong,9.5,False,False,Jack Smith
+USE01118,JOB0034,EX004,35T Excavator,2026-06-06,Geelong,7.5,False,False,Thomas Brown
+USE00352,JOB0010,CP001,Compactor 815F,2026-06-08,Broadmeadows,6.0,False,True,Henry Johnson
+USE00320,JOB0010,DZ001,Dozer D6,2026-06-08,Broadmeadows,9.5,False,True,William Jones
+USE00336,JOB0010,EX003,26T Excavator,2026-06-08,Broadmeadows,8.5,False,True,William Jones
+USE00344,JOB0010,EX005,50T Excavator,2026-06-08,Broadmeadows,7.0,False,True,Lucas Wilson
+USE00328,JOB0010,GR001,Grader 12M,2026-06-08,Broadmeadows,8.0,False,True,Thomas Brown
+USE00705,JOB0022,BC001,Bobcat+8T Tipper,2026-06-08,Geelong,9.5,False,False,Lachlan Martin
+USE00750,JOB0022,DZ001,Dozer D6,2026-06-08,Geelong,7.0,True,True,William Jones
+USE00735,JOB0022,EX001,13T Excavator,2026-06-08,Geelong,9.0,False,True,Noah Williams
+USE00720,JOB0022,LD001,Loader 3m,2026-06-08,Geelong,9.5,False,True,Noah Williams
+USE01098,JOB0033,DT001,Dump Truck 30T,2026-06-08,Pakenham,9.0,False,False,Oliver Taylor
+USE01106,JOB0033,EX005,50T Excavator,2026-06-08,Pakenham,9.5,False,True,Lucas Wilson
+USE01102,JOB0033,GR001,Grader 12M,2026-06-08,Pakenham,9.0,True,True,Thomas Brown
+USE00353,JOB0010,CP001,Compactor 815F,2026-06-09,Broadmeadows,11.5,False,False,Henry Johnson
+USE00321,JOB0010,DZ001,Dozer D6,2026-06-09,Broadmeadows,9.0,False,True,William Jones
+USE00337,JOB0010,EX003,26T Excavator,2026-06-09,Broadmeadows,9.0,False,False,William Jones
+USE00345,JOB0010,EX005,50T Excavator,2026-06-09,Broadmeadows,8.0,False,True,Lucas Wilson
+USE00329,JOB0010,GR001,Grader 12M,2026-06-09,Broadmeadows,6.5,False,True,Thomas Brown
+USE00706,JOB0022,BC001,Bobcat+8T Tipper,2026-06-09,Geelong,8.0,False,False,Lachlan Martin
+USE00751,JOB0022,DZ001,Dozer D6,2026-06-09,Geelong,10.0,True,True,William Jones
+USE00736,JOB0022,EX001,13T Excavator,2026-06-09,Geelong,8.0,False,False,Noah Williams
+USE00721,JOB0022,LD001,Loader 3m,2026-06-09,Geelong,9.5,False,False,Noah Williams
+USE00354,JOB0010,CP001,Compactor 815F,2026-06-10,Broadmeadows,8.5,False,False,Henry Johnson
+USE00322,JOB0010,DZ001,Dozer D6,2026-06-10,Broadmeadows,9.0,False,True,William Jones
+USE00338,JOB0010,EX003,26T Excavator,2026-06-10,Broadmeadows,8.5,False,False,William Jones
+USE00346,JOB0010,EX005,50T Excavator,2026-06-10,Broadmeadows,11.0,False,False,Lucas Wilson
+USE00330,JOB0010,GR001,Grader 12M,2026-06-10,Broadmeadows,9.0,True,False,Thomas Brown
+USE00707,JOB0022,BC001,Bobcat+8T Tipper,2026-06-10,Geelong,7.5,False,False,Lachlan Martin
+USE00752,JOB0022,DZ001,Dozer D6,2026-06-10,Geelong,11.0,False,True,William Jones
+USE00737,JOB0022,EX001,13T Excavator,2026-06-10,Geelong,10.5,False,False,Noah Williams
+USE00722,JOB0022,LD001,Loader 3m,2026-06-10,Geelong,7.5,False,False,Noah Williams
+USE00355,JOB0010,CP001,Compactor 815F,2026-06-11,Broadmeadows,7.5,False,False,Henry Johnson
+USE00323,JOB0010,DZ001,Dozer D6,2026-06-11,Broadmeadows,7.5,False,True,William Jones
+USE00339,JOB0010,EX003,26T Excavator,2026-06-11,Broadmeadows,9.0,False,False,William Jones
+USE00347,JOB0010,EX005,50T Excavator,2026-06-11,Broadmeadows,9.0,False,False,Lucas Wilson
+USE00331,JOB0010,GR001,Grader 12M,2026-06-11,Broadmeadows,8.0,False,False,Thomas Brown
+USE00708,JOB0022,BC001,Bobcat+8T Tipper,2026-06-11,Geelong,9.0,True,False,Lachlan Martin
+USE00753,JOB0022,DZ001,Dozer D6,2026-06-11,Geelong,10.5,False,True,William Jones
+USE00738,JOB0022,EX001,13T Excavator,2026-06-11,Geelong,8.5,False,False,Noah Williams
+USE00723,JOB0022,LD001,Loader 3m,2026-06-11,Geelong,8.5,True,False,Noah Williams
+USE00356,JOB0010,CP001,Compactor 815F,2026-06-12,Broadmeadows,11.5,False,False,Henry Johnson
+USE00324,JOB0010,DZ001,Dozer D6,2026-06-12,Broadmeadows,7.5,True,True,William Jones
+USE00340,JOB0010,EX003,26T Excavator,2026-06-12,Broadmeadows,11.5,False,False,William Jones
+USE00348,JOB0010,EX005,50T Excavator,2026-06-12,Broadmeadows,9.0,False,False,Lucas Wilson
+USE00332,JOB0010,GR001,Grader 12M,2026-06-12,Broadmeadows,9.5,False,False,Thomas Brown
+USE00709,JOB0022,BC001,Bobcat+8T Tipper,2026-06-12,Geelong,9.0,False,False,Lachlan Martin
+USE00754,JOB0022,DZ001,Dozer D6,2026-06-12,Geelong,9.0,False,True,William Jones
+USE00739,JOB0022,EX001,13T Excavator,2026-06-12,Geelong,10.5,False,False,Noah Williams
+USE00724,JOB0022,LD001,Loader 3m,2026-06-12,Geelong,10.5,False,False,Noah Williams
+USE00357,JOB0010,CP001,Compactor 815F,2026-06-13,Broadmeadows,7.5,False,False,Henry Johnson
+USE00325,JOB0010,DZ001,Dozer D6,2026-06-13,Broadmeadows,9.5,False,True,William Jones
+USE00341,JOB0010,EX003,26T Excavator,2026-06-13,Broadmeadows,9.5,False,False,William Jones
+USE00349,JOB0010,EX005,50T Excavator,2026-06-13,Broadmeadows,9.5,False,False,Lucas Wilson
+USE00333,JOB0010,GR001,Grader 12M,2026-06-13,Broadmeadows,10.5,False,False,Thomas Brown
+USE00710,JOB0022,BC001,Bobcat+8T Tipper,2026-06-13,Geelong,8.5,False,False,Lachlan Martin
+USE00755,JOB0022,DZ001,Dozer D6,2026-06-13,Geelong,9.5,True,True,William Jones
+USE00740,JOB0022,EX001,13T Excavator,2026-06-13,Geelong,9.5,False,False,Noah Williams
+USE00725,JOB0022,LD001,Loader 3m,2026-06-13,Geelong,9.5,False,False,Noah Williams
+USE00358,JOB0010,CP001,Compactor 815F,2026-06-15,Broadmeadows,10.0,False,False,Henry Johnson
+USE00326,JOB0010,DZ001,Dozer D6,2026-06-15,Broadmeadows,10.0,False,True,William Jones
+USE00342,JOB0010,EX003,26T Excavator,2026-06-15,Broadmeadows,11.0,False,False,William Jones
+USE00350,JOB0010,EX005,50T Excavator,2026-06-15,Broadmeadows,10.5,False,False,Lucas Wilson
+USE00334,JOB0010,GR001,Grader 12M,2026-06-15,Broadmeadows,9.0,False,False,Thomas Brown
+USE00711,JOB0022,BC001,Bobcat+8T Tipper,2026-06-15,Geelong,9.5,False,False,Lachlan Martin
+USE00756,JOB0022,DZ001,Dozer D6,2026-06-15,Geelong,10.0,False,True,William Jones
+USE00741,JOB0022,EX001,13T Excavator,2026-06-15,Geelong,8.0,False,False,Noah Williams
+USE00726,JOB0022,LD001,Loader 3m,2026-06-15,Geelong,8.0,False,False,Noah Williams
+USE00359,JOB0010,CP001,Compactor 815F,2026-06-16,Broadmeadows,9.0,True,False,Henry Johnson
+USE00327,JOB0010,DZ001,Dozer D6,2026-06-16,Broadmeadows,8.0,False,True,William Jones
+USE00343,JOB0010,EX003,26T Excavator,2026-06-16,Broadmeadows,7.5,False,False,William Jones
+USE00351,JOB0010,EX005,50T Excavator,2026-06-16,Broadmeadows,10.0,False,False,Lucas Wilson
+USE00335,JOB0010,GR001,Grader 12M,2026-06-16,Broadmeadows,8.0,True,False,Thomas Brown
+USE00712,JOB0022,BC001,Bobcat+8T Tipper,2026-06-16,Geelong,7.5,False,False,Lachlan Martin
+USE00757,JOB0022,DZ001,Dozer D6,2026-06-16,Geelong,10.5,False,True,William Jones
+USE00742,JOB0022,EX001,13T Excavator,2026-06-16,Geelong,9.0,False,False,Noah Williams
+USE00727,JOB0022,LD001,Loader 3m,2026-06-16,Geelong,8.5,False,False,Noah Williams
+USE00713,JOB0022,BC001,Bobcat+8T Tipper,2026-06-17,Geelong,8.5,False,False,Lachlan Martin
+USE00758,JOB0022,DZ001,Dozer D6,2026-06-17,Geelong,8.0,False,False,William Jones
+USE00743,JOB0022,EX001,13T Excavator,2026-06-17,Geelong,10.0,False,False,Noah Williams
+USE00728,JOB0022,LD001,Loader 3m,2026-06-17,Geelong,6.5,False,False,Noah Williams
+USE00714,JOB0022,BC001,Bobcat+8T Tipper,2026-06-18,Geelong,11.0,False,False,Lachlan Martin
+USE00759,JOB0022,DZ001,Dozer D6,2026-06-18,Geelong,9.0,False,False,William Jones
+USE00744,JOB0022,EX001,13T Excavator,2026-06-18,Geelong,8.0,False,False,Noah Williams
+USE00729,JOB0022,LD001,Loader 3m,2026-06-18,Geelong,9.5,True,False,Noah Williams
+USE00715,JOB0022,BC001,Bobcat+8T Tipper,2026-06-19,Geelong,10.5,False,False,Lachlan Martin
+USE00760,JOB0022,DZ001,Dozer D6,2026-06-19,Geelong,7.0,False,False,William Jones
+USE00745,JOB0022,EX001,13T Excavator,2026-06-19,Geelong,8.5,False,False,Noah Williams
+USE00730,JOB0022,LD001,Loader 3m,2026-06-19,Geelong,8.0,False,False,Noah Williams
+USE00716,JOB0022,BC001,Bobcat+8T Tipper,2026-06-20,Geelong,12.0,False,False,Lachlan Martin
+USE00761,JOB0022,DZ001,Dozer D6,2026-06-20,Geelong,7.0,False,False,William Jones
+USE00746,JOB0022,EX001,13T Excavator,2026-06-20,Geelong,10.0,False,False,Noah Williams
+USE00731,JOB0022,LD001,Loader 3m,2026-06-20,Geelong,9.5,False,False,Noah Williams
+USE00717,JOB0022,BC001,Bobcat+8T Tipper,2026-06-22,Geelong,9.0,False,False,Lachlan Martin
+USE00762,JOB0022,DZ001,Dozer D6,2026-06-22,Geelong,7.5,False,False,William Jones
+USE00747,JOB0022,EX001,13T Excavator,2026-06-22,Geelong,9.5,False,False,Noah Williams
+USE00732,JOB0022,LD001,Loader 3m,2026-06-22,Geelong,7.5,False,False,Noah Williams
+USE00718,JOB0022,BC001,Bobcat+8T Tipper,2026-06-23,Geelong,9.0,False,False,Lachlan Martin
+USE00763,JOB0022,DZ001,Dozer D6,2026-06-23,Geelong,7.0,False,False,William Jones
+USE00748,JOB0022,EX001,13T Excavator,2026-06-23,Geelong,10.5,False,False,Noah Williams
+USE00733,JOB0022,LD001,Loader 3m,2026-06-23,Geelong,10.5,False,False,Noah Williams
+USE00719,JOB0022,BC001,Bobcat+8T Tipper,2026-06-24,Geelong,7.5,False,False,Lachlan Martin
+USE00764,JOB0022,DZ001,Dozer D6,2026-06-24,Geelong,8.5,False,False,William Jones
+USE00749,JOB0022,EX001,13T Excavator,2026-06-24,Geelong,8.5,False,False,Noah Williams
+USE00734,JOB0022,LD001,Loader 3m,2026-06-24,Geelong,9.0,False,False,Noah Williams
